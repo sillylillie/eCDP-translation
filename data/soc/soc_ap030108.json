@@ -1,0 +1,25 @@
+{
+  "name": "soc_ap030108",
+  "strings": [
+    {
+      "original_japanese": "■2回目のリムーブブザーが鳴ったら止\n　　めて、直ちにカバーとエッグリングを\n　　順番に開く",
+      "original_pointer": 10,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■エッグ用ターナーを使ってリムーブし、\n　　UHCトレーに置く\n■UHCトレーに並べられる最大枚数\n　　18個（3段6列）",
+      "original_pointer": 100,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■エッグは必ず、黄身がゲル状で流れ出\n　　ないようになるまで加熱する\n■エッグはしっとりしているけれども、\n　　柔らかい部分がなくなるまで加熱して\n　　からリムーブする",
+      "original_pointer": 210,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■エッグの端が破れたり、エッグが流れ\n　　出たりしないように、きれいに仕上げる",
+      "original_pointer": 375,
+      "translations": {}
+    }
+  ]
+}

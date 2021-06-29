@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap091202",
+  "strings": [
+    {
+      "original_japanese": "■マシン付近に手洗い設備がある場合\n　　は、水ハネがないか確認する\n■常にドライに保つようにする",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

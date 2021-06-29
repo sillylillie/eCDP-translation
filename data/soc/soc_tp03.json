@@ -1,0 +1,45 @@
+{
+  "name": "soc_tp03",
+  "strings": [
+    {
+      "original_japanese": "準備",
+      "original_pointer": 18,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①エッグ",
+      "original_pointer": 23,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②イングリッシュマフィン",
+      "original_pointer": 32,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③グリドルケーキ",
+      "original_pointer": 57,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全8ページ",
+      "original_pointer": 74,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全11ページ",
+      "original_pointer": 84,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全10ページ",
+      "original_pointer": 95,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全13ページ",
+      "original_pointer": 106,
+      "translations": {}
+    }
+  ]
+}

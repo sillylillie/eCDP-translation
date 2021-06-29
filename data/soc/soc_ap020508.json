@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap020508",
+  "strings": [
+    {
+      "original_japanese": "■保管前に食品にラップをする\n■食品の入ったケースを床に直置きしな\n　　い",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■ダンボールの耳切りをしない\n■グリルサイドフリーザー内のパティに\n　　はビニールをかぶせる",
+      "original_pointer": 79,
+      "translations": {}
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "name": "sec_dp01",
+  "strings": [
+    {
+      "original_japanese": "ハッシュポテトを製造\nするときの温度は？",
+      "original_pointer": 102,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１８２℃",
+      "original_pointer": 142,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１６６℃",
+      "original_pointer": 151,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１６８℃",
+      "original_pointer": 160,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１７８℃",
+      "original_pointer": 169,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ハッシュポテトを製造\nするときの時間は？",
+      "original_pointer": 178,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２分４５秒±５秒",
+      "original_pointer": 218,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２分５５秒±５秒",
+      "original_pointer": 235,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３分±５秒",
+      "original_pointer": 252,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３分１５秒±５秒",
+      "original_pointer": 263,
+      "translations": {}
+    },
+    {
+      "original_japanese": "バットの中の揚げカスを\n取り除くことを何というか？",
+      "original_pointer": 280,
+      "translations": {}
+    },
+    {
+      "original_japanese": "スキミング",
+      "original_pointer": 330,
+      "translations": {}
+    },
+    {
+      "original_japanese": "カリブレーション",
+      "original_pointer": 341,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フィルタリング",
+      "original_pointer": 358,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ショートニング",
+      "original_pointer": 373,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ハッシュバスケットには\n最大何枚入れられるか？",
+      "original_pointer": 388,
+      "translations": {}
+    },
+    {
+      "original_japanese": "８枚",
+      "original_pointer": 434,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６枚",
+      "original_pointer": 439,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９枚",
+      "original_pointer": 444,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１２枚",
+      "original_pointer": 449,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ハッシュポテトをバットから\nリムーブしたときに、\n何秒くらいオイルを切るか？",
+      "original_pointer": 456,
+      "translations": {}
+    },
+    {
+      "original_japanese": "５〜１０秒",
+      "original_pointer": 531,
+      "translations": {}
+    },
+    {
+      "original_japanese": "切らなくてもいい",
+      "original_pointer": 542,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３〜５秒",
+      "original_pointer": 559,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１０〜１５秒",
+      "original_pointer": 568,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ハッシュポテトは何を使って\nパッケージングするか？",
+      "original_pointer": 581,
+      "translations": {}
+    },
+    {
+      "original_japanese": "トング",
+      "original_pointer": 631,
+      "translations": {}
+    },
+    {
+      "original_japanese": "バギングスクープ",
+      "original_pointer": 638,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フライスキマー",
+      "original_pointer": 655,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ドライワイパー",
+      "original_pointer": 670,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ハッシュポテトに対して、\nお客様が期待しているものは\nどれか？",
+      "original_pointer": 685,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ゴールデンブラウン",
+      "original_pointer": 746,
+      "translations": {}
+    },
+    {
+      "original_japanese": "冷たい食感",
+      "original_pointer": 765,
+      "translations": {}
+    },
+    {
+      "original_japanese": "油っこい",
+      "original_pointer": 776,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ベタベタしている",
+      "original_pointer": 785,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フライステーションは\n何を使って清掃するか？",
+      "original_pointer": 802,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ドライワイパー",
+      "original_pointer": 846,
+      "translations": {}
+    },
+    {
+      "original_japanese": "カウンタークロス（ピンク）",
+      "original_pointer": 861,
+      "translations": {}
+    },
+    {
+      "original_japanese": "グリルクロス",
+      "original_pointer": 888,
+      "translations": {}
+    },
+    {
+      "original_japanese": "Ｍバッグ",
+      "original_pointer": 901,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ハッシュポテトの\nホールディングタイムは\n何分か？",
+      "original_pointer": 910,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１０分",
+      "original_pointer": 959,
+      "translations": {}
+    },
+    {
+      "original_japanese": "７分",
+      "original_pointer": 966,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１５分",
+      "original_pointer": 971,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２０分",
+      "original_pointer": 978,
+      "translations": {}
+    },
+    {
+      "original_japanese": "オイルの６つの敵でないものを\n選んでください",
+      "original_pointer": 985,
+      "translations": {}
+    },
+    {
+      "original_japanese": "スキミング",
+      "original_pointer": 1029,
+      "translations": {}
+    },
+    {
+      "original_japanese": "空気",
+      "original_pointer": 1040,
+      "translations": {}
+    },
+    {
+      "original_japanese": "洗剤",
+      "original_pointer": 1045,
+      "translations": {}
+    },
+    {
+      "original_japanese": "水",
+      "original_pointer": 1050,
+      "translations": {}
+    }
+  ]
+}

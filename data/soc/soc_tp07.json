@@ -1,0 +1,115 @@
+{
+  "name": "soc_tp07",
+  "strings": [
+    {
+      "original_japanese": "準備",
+      "original_pointer": 46,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①保管とホットホールディング",
+      "original_pointer": 51,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②バンズのトースト、スチーム",
+      "original_pointer": 80,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③ハンバーガー・チーズバーガー",
+      "original_pointer": 109,
+      "translations": {}
+    },
+    {
+      "original_japanese": "④てりやきマックバーガー",
+      "original_pointer": 140,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑤ビッグマック",
+      "original_pointer": 165,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑥フィレオフィッシュ",
+      "original_pointer": 180,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑦クォーターパウンダー",
+      "original_pointer": 201,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑧ダブルクォーターパウンダー",
+      "original_pointer": 224,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑨商品完成図",
+      "original_pointer": 253,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑩メンテナンス",
+      "original_pointer": 266,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全13ページ",
+      "original_pointer": 281,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全10ページ",
+      "original_pointer": 292,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全12ページ",
+      "original_pointer": 303,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全10ページ",
+      "original_pointer": 314,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全7ページ",
+      "original_pointer": 325,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全10ページ",
+      "original_pointer": 335,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全7ページ",
+      "original_pointer": 346,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全12ページ",
+      "original_pointer": 356,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全14ページ",
+      "original_pointer": 367,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全4ページ",
+      "original_pointer": 378,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全2ページ",
+      "original_pointer": 388,
+      "translations": {}
+    }
+  ]
+}

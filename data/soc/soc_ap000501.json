@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap000501",
+  "strings": [
+    {
+      "original_japanese": "注意\n■フライオイルは熱いので注意する\n■十分なバッグが用意されているか確\n　　認する\n■フライオイルが規定ラインまで入って\n　　いるか確認する",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

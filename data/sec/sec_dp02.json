@@ -1,0 +1,255 @@
+{
+  "name": "sec_dp02",
+  "strings": [
+    {
+      "original_japanese": "次の [　　　　] に入る\n言葉を選んでください\n\n『お客様がこぼしたドリンクは\n [　　　　] で取り替える』",
+      "original_pointer": 102,
+      "translations": {}
+    },
+    {
+      "original_japanese": "無料",
+      "original_pointer": 203,
+      "translations": {}
+    },
+    {
+      "original_japanese": "有料",
+      "original_pointer": 208,
+      "translations": {}
+    },
+    {
+      "original_japanese": "半額",
+      "original_pointer": 213,
+      "translations": {}
+    },
+    {
+      "original_japanese": "次回のご来店",
+      "original_pointer": 218,
+      "translations": {}
+    },
+    {
+      "original_japanese": "次の [　　　　] に入る\n言葉を選んでください\n\n『礼儀正しさと思いやりは\n [　　　　] に含まれています』",
+      "original_pointer": 231,
+      "translations": {}
+    },
+    {
+      "original_japanese": "商品の価格",
+      "original_pointer": 332,
+      "translations": {}
+    },
+    {
+      "original_japanese": "壊れた機器",
+      "original_pointer": 343,
+      "translations": {}
+    },
+    {
+      "original_japanese": "揚げカス",
+      "original_pointer": 354,
+      "translations": {}
+    },
+    {
+      "original_japanese": "消費税",
+      "original_pointer": 363,
+      "translations": {}
+    },
+    {
+      "original_japanese": "次の [　　　　] に入る\n言葉を選んでください\n\n『客席のサンキューＢＯＸは\n通常 [　　　　] に確認します』",
+      "original_pointer": 370,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３０分ごと",
+      "original_pointer": 473,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６０分ごと",
+      "original_pointer": 484,
+      "translations": {}
+    },
+    {
+      "original_japanese": "午前、午後",
+      "original_pointer": 495,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１日１回以上",
+      "original_pointer": 506,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フロアにモップをかけるときに\n使うものは何か？",
+      "original_pointer": 519,
+      "translations": {}
+    },
+    {
+      "original_japanese": "床濡れ注意プレート",
+      "original_pointer": 565,
+      "translations": {}
+    },
+    {
+      "original_japanese": "抗菌ウェットワイパー",
+      "original_pointer": 584,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フェイスシールド",
+      "original_pointer": 605,
+      "translations": {}
+    },
+    {
+      "original_japanese": "パックライナー",
+      "original_pointer": 622,
+      "translations": {}
+    },
+    {
+      "original_japanese": "客席のイスを拭くときの\nカウンタークロスの色は？",
+      "original_pointer": 637,
+      "translations": {}
+    },
+    {
+      "original_japanese": "グリーン",
+      "original_pointer": 685,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ピンク",
+      "original_pointer": 694,
+      "translations": {}
+    },
+    {
+      "original_japanese": "白",
+      "original_pointer": 701,
+      "translations": {}
+    },
+    {
+      "original_japanese": "特に決まりはない",
+      "original_pointer": 704,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ピークタイムは何分に１回、\nトイレを確認するか？",
+      "original_pointer": 721,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１５分",
+      "original_pointer": 769,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３０分",
+      "original_pointer": 776,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６０分",
+      "original_pointer": 783,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９０分",
+      "original_pointer": 790,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ゴミをゴミ置き場に運ぶときに\n注意することは何か？",
+      "original_pointer": 797,
+      "translations": {}
+    },
+    {
+      "original_japanese": "引きずらない",
+      "original_pointer": 847,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フェイスシールドをつける",
+      "original_pointer": 860,
+      "translations": {}
+    },
+    {
+      "original_japanese": "新人クルーだけにやらせる",
+      "original_pointer": 885,
+      "translations": {}
+    },
+    {
+      "original_japanese": "乱暴に扱う",
+      "original_pointer": 910,
+      "translations": {}
+    },
+    {
+      "original_japanese": "トイレで確認するべき項目で\nないものは何か？",
+      "original_pointer": 921,
+      "translations": {}
+    },
+    {
+      "original_japanese": "犬走り",
+      "original_pointer": 965,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ＭｃＤハンドソープ",
+      "original_pointer": 972,
+      "translations": {}
+    },
+    {
+      "original_japanese": "トイレットペーパー",
+      "original_pointer": 991,
+      "translations": {}
+    },
+    {
+      "original_japanese": "臭い",
+      "original_pointer": 1010,
+      "translations": {}
+    },
+    {
+      "original_japanese": "店外の清掃でするべきことは\n何か？",
+      "original_pointer": 1015,
+      "translations": {}
+    },
+    {
+      "original_japanese": "目につくゴミは拾う",
+      "original_pointer": 1049,
+      "translations": {}
+    },
+    {
+      "original_japanese": "便器の清掃",
+      "original_pointer": 1068,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ＭｃＤハンドソープの補充",
+      "original_pointer": 1079,
+      "translations": {}
+    },
+    {
+      "original_japanese": "温度の調整",
+      "original_pointer": 1104,
+      "translations": {}
+    },
+    {
+      "original_japanese": "モップの使い方で正しいものは\nどれか？",
+      "original_pointer": 1115,
+      "translations": {}
+    },
+    {
+      "original_japanese": "厨房とロビーで使い分ける",
+      "original_pointer": 1153,
+      "translations": {}
+    },
+    {
+      "original_japanese": "午前、午後で使い分ける",
+      "original_pointer": 1178,
+      "translations": {}
+    },
+    {
+      "original_japanese": "消毒保管庫で保管する",
+      "original_pointer": 1201,
+      "translations": {}
+    },
+    {
+      "original_japanese": "窓を拭くときに使う",
+      "original_pointer": 1222,
+      "translations": {}
+    }
+  ]
+}

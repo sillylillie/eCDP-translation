@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap000103",
+  "strings": [
+    {
+      "original_japanese": "■ポテトの必要量に応じて、ロードセレク\n　　トスイッチを設定する",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

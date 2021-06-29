@@ -1,0 +1,20 @@
+{
+  "name": "soc_ap060102",
+  "strings": [
+    {
+      "original_japanese": "2時間\n　　スライスレタス\n　　スライスチーズ",
+      "original_pointer": 8,
+      "translations": {}
+    },
+    {
+      "original_japanese": "3時間\n　　スライスベーコン\n　　グリドルケーキ(3時間8分)",
+      "original_pointer": 52,
+      "translations": {}
+    },
+    {
+      "original_japanese": "2営業日\n　　タルタルソース\n3営業日\n　　シーザーサラダソース",
+      "original_pointer": 108,
+      "translations": {}
+    }
+  ]
+}

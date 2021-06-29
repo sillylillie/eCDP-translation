@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap080501",
+  "strings": [
+    {
+      "original_japanese": "■バット内では1度に調理するのは1つの\n　　バスケットのみ\n■同じバット内でもう1つのバスケット\n　　を調理する場合は30秒以上経過して\n　　から、次のバスケットを入れる",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■必要に応じて、トングを使ってすべて\n　　のパイをオイルに浸す\n■完全にオイルに入らなかったポーショ\n　　ンは廃棄する",
+      "original_pointer": 168,
+      "translations": {}
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "name": "soc_tp10",
+  "strings": [
+    {
+      "original_japanese": "準備",
+      "original_pointer": 34,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①あいさつ",
+      "original_pointer": 39,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②注文の承り",
+      "original_pointer": 50,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③注文品の取り揃え",
+      "original_pointer": 63,
+      "translations": {}
+    },
+    {
+      "original_japanese": "④あいさつ(キャッシャー)",
+      "original_pointer": 82,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑤代金の授受",
+      "original_pointer": 107,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑥注文品の手渡し",
+      "original_pointer": 120,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑦感謝のあいさつ",
+      "original_pointer": 137,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全6ページ",
+      "original_pointer": 154,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全3ページ",
+      "original_pointer": 164,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全6ページ",
+      "original_pointer": 174,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全14ページ",
+      "original_pointer": 184,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全1ページ",
+      "original_pointer": 195,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全5ページ",
+      "original_pointer": 205,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全10ページ",
+      "original_pointer": 215,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全1ページ",
+      "original_pointer": 226,
+      "translations": {}
+    }
+  ]
+}

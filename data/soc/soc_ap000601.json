@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap000601",
+  "strings": [
+    {
+      "original_japanese": "■次のバスケットを同じバットに入れる\n　　ときは、30秒以上経過してから入れる",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

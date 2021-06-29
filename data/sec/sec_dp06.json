@@ -1,0 +1,255 @@
+{
+  "name": "sec_dp06",
+  "strings": [
+    {
+      "original_japanese": "10:1パティに対して、\nお客様が期待していないものは\nどれか？",
+      "original_pointer": 102,
+      "translations": {}
+    },
+    {
+      "original_japanese": "程よい色ムラ",
+      "original_pointer": 161,
+      "translations": {}
+    },
+    {
+      "original_japanese": "アツアツ",
+      "original_pointer": 174,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ジューシー",
+      "original_pointer": 183,
+      "translations": {}
+    },
+    {
+      "original_japanese": "正しい焼成",
+      "original_pointer": 194,
+      "translations": {}
+    },
+    {
+      "original_japanese": "10:1パティは内部温度が\n何℃になるまで加熱しなければ\nならないか？",
+      "original_pointer": 205,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６９℃以上",
+      "original_pointer": 270,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６０℃以上",
+      "original_pointer": 281,
+      "translations": {}
+    },
+    {
+      "original_japanese": "−１８℃ 〜 −２３℃",
+      "original_pointer": 292,
+      "translations": {}
+    },
+    {
+      "original_japanese": "７９℃以上",
+      "original_pointer": 313,
+      "translations": {}
+    },
+    {
+      "original_japanese": "原材料のストック量は\n何を参照して確認するか？",
+      "original_pointer": 324,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ＵＨＣストックチャート",
+      "original_pointer": 370,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ＫＶＳモニター",
+      "original_pointer": 393,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ＰＭＣカレンダー",
+      "original_pointer": 408,
+      "translations": {}
+    },
+    {
+      "original_japanese": "クルーノート",
+      "original_pointer": 425,
+      "translations": {}
+    },
+    {
+      "original_japanese": "焼成する前の\nてりやきパティを保管する際の\n適切な温度は？",
+      "original_pointer": 438,
+      "translations": {}
+    },
+    {
+      "original_japanese": "−１８℃ 〜 −２３℃",
+      "original_pointer": 495,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１℃ 〜 ４℃",
+      "original_pointer": 516,
+      "translations": {}
+    },
+    {
+      "original_japanese": "−１０℃ 〜 −２０℃",
+      "original_pointer": 529,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６９℃以上",
+      "original_pointer": 550,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ＵＨＣトレーやグリルの用具は、\n何時間に１度の洗浄・殺菌が\n必要か？",
+      "original_pointer": 561,
+      "translations": {}
+    },
+    {
+      "original_japanese": "４時間",
+      "original_pointer": 628,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１時間",
+      "original_pointer": 635,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２時間",
+      "original_pointer": 642,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６時間",
+      "original_pointer": 649,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１ランで焼成できる\n10:1パティの最大枚数は？",
+      "original_pointer": 656,
+      "translations": {}
+    },
+    {
+      "original_japanese": "８枚",
+      "original_pointer": 700,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９枚",
+      "original_pointer": 705,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６枚",
+      "original_pointer": 710,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１２枚",
+      "original_pointer": 715,
+      "translations": {}
+    },
+    {
+      "original_japanese": "10:1パティのリムーブに\n使用できる最大時間は\n何秒か？",
+      "original_pointer": 722,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１８秒",
+      "original_pointer": 775,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２２秒",
+      "original_pointer": 782,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２５秒",
+      "original_pointer": 789,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２８秒",
+      "original_pointer": 796,
+      "translations": {}
+    },
+    {
+      "original_japanese": "4:1パティの焼成時、\nプラテンスイッチを押した後は、\n何で手を拭くか？",
+      "original_pointer": 803,
+      "translations": {}
+    },
+    {
+      "original_japanese": "抗菌ウェットワイパー",
+      "original_pointer": 871,
+      "translations": {}
+    },
+    {
+      "original_japanese": "タウパー",
+      "original_pointer": 892,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ドライワイパー",
+      "original_pointer": 901,
+      "translations": {}
+    },
+    {
+      "original_japanese": "エプロン",
+      "original_pointer": 916,
+      "translations": {}
+    },
+    {
+      "original_japanese": "てりやきパティをＵＨＣで\n保管するときのスロットの\n設定温度は？",
+      "original_pointer": 925,
+      "translations": {}
+    },
+    {
+      "original_japanese": "８５℃",
+      "original_pointer": 988,
+      "translations": {}
+    },
+    {
+      "original_japanese": "７９℃",
+      "original_pointer": 995,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９３℃",
+      "original_pointer": 1002,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６９℃以上",
+      "original_pointer": 1009,
+      "translations": {}
+    },
+    {
+      "original_japanese": "4:1パティの最大焼成枚数は\n何枚か？",
+      "original_pointer": 1020,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６枚",
+      "original_pointer": 1055,
+      "translations": {}
+    },
+    {
+      "original_japanese": "８枚",
+      "original_pointer": 1060,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９枚",
+      "original_pointer": 1065,
+      "translations": {}
+    },
+    {
+      "original_japanese": "４枚",
+      "original_pointer": 1070,
+      "translations": {}
+    }
+  ]
+}

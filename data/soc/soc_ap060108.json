@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap060108",
+  "strings": [
+    {
+      "original_japanese": "■ホールディングタイム\n　　ソーセージパティ　　　　　　　60分\n　　エッグ　　　　　　　　　　　　　　　　20分\n　　カナディアンベーコン　　　30分\n　　イングリッシュマフィン　　20分",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■ホールディングタイム\n　　ナゲットポーション　　　　20分\n　　フィッシュポーション　　30分\n　　プレミアチキンパティ　　30分",
+      "original_pointer": 185,
+      "translations": {}
+    }
+  ]
+}

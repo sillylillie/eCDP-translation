@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap050311",
+  "strings": [
+    {
+      "original_japanese": "■スクレーパー、グリルワイパーを使い、\n　　グリルを清掃する\n■グリル表面にこびりついたカーボンは\n　　グリルクロスを使い、確実に清掃する",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■二次汚染防止のため、スタンバイス\n　　イッチを押したあとに、抗菌ウェットワ\n　　イパーで手を拭く",
+      "original_pointer": 142,
+      "translations": {}
+    }
+  ]
+}

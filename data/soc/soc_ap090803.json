@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap090803",
+  "strings": [
+    {
+      "original_japanese": "■ハンドルは放すと、自動的に閉位置に\n　　戻る\n■ハンドルを閉位置まで戻さない。押し\n　　戻すと、フレーバーがあふれる",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

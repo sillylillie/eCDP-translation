@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap030105",
+  "strings": [
+    {
+      "original_japanese": "■イエローハツラースパチュラで黄身を\n　　ツイストする。二次汚染防止のため、\n　　他のスパチュラは使用しない",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■スパチュラの先端をそれぞれの黄身\n　　に入れ、180℃ツイストして黄身を均一\n　　にならす",
+      "original_pointer": 113,
+      "translations": {}
+    }
+  ]
+}

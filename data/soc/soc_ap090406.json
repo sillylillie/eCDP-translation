@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap090406",
+  "strings": [
+    {
+      "original_japanese": "■ドリンクの種類によって、カップとリッド\n　　の種類が違うので、トレーナーに確認\n　　する\n■必要な場合は、リッドの適切なボタン\n　　を押して、ドリンクの種類を示す",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

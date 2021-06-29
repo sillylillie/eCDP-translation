@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap020100",
+  "strings": [
+    {
+      "original_japanese": "■食品の取り扱いを誤ると、カスタマーサ\n　　ティスファクションや店舗のセールスに\n　　打撃を与えることもある",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

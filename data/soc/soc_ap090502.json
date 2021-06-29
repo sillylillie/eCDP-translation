@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap090502",
+  "strings": [
+    {
+      "original_japanese": "■お客様にお渡しする前に、お客様がカ\n　　ップを受け取る準備ができていること\n　　を確認する",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

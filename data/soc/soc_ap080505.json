@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap080505",
+  "strings": [
+    {
+      "original_japanese": "■最大ホールディングタイムは90分\n■パイマーチャンダイザー温度は\n　　60℃±5℃",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■パイマーチャンダイザーに入れるとき\n　　は、パイボックスの窓が開いている方\n　　を奥にする。手前に向けると外気に触\n　　れ、温度の低下につながる",
+      "original_pointer": 84,
+      "translations": {}
+    }
+  ]
+}

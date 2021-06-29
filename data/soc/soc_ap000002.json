@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap000002",
+  "strings": [
+    {
+      "original_japanese": "■重量チェックはポテトスケールで行う\n■十分なフライバッグ、ボックス、塩が用\n　　意されているか確認する\n■フライオイルが規定ラインまで入って\n　　いるか確認する",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

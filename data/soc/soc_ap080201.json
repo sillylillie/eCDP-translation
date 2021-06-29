@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap080201",
+  "strings": [
+    {
+      "original_japanese": "■フィッシュバット内でチキンプロダク\n　　トを調理しない\n■1つのバット内で同時に2つのバスケッ\n　　トを調理しない",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■必要に応じてバスケットを丁寧に振る\n　　か、トングを使ってすべてのパティをオ\n　　イルに入れる\n■完全にオイルに入らなかったパティは\n　　廃棄する",
+      "original_pointer": 118,
+      "translations": {}
+    }
+  ]
+}

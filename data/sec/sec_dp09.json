@@ -1,0 +1,255 @@
+{
+  "name": "sec_dp09",
+  "strings": [
+    {
+      "original_japanese": "チキンプロダクトを\nフライするときの温度は？",
+      "original_pointer": 102,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１８２℃",
+      "original_pointer": 146,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１７７℃",
+      "original_pointer": 155,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２１８℃",
+      "original_pointer": 164,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１６８℃",
+      "original_pointer": 173,
+      "translations": {}
+    },
+    {
+      "original_japanese": "プレミアチキンパティを\n製造するときの時間は？",
+      "original_pointer": 182,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３分３０秒±５秒",
+      "original_pointer": 228,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３分３５秒±５秒",
+      "original_pointer": 245,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２分５５秒±５秒",
+      "original_pointer": 262,
+      "translations": {}
+    },
+    {
+      "original_japanese": "５分５５秒±７秒",
+      "original_pointer": 279,
+      "translations": {}
+    },
+    {
+      "original_japanese": "チキンバスケットに入れられる\n冷凍チキンパティの\n最大枚数は？",
+      "original_pointer": 296,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６枚",
+      "original_pointer": 357,
+      "translations": {}
+    },
+    {
+      "original_japanese": "８枚",
+      "original_pointer": 362,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９枚",
+      "original_pointer": 367,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１２枚",
+      "original_pointer": 372,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フルバスケットに\n一度に投入できる\nナゲットポーションの\n最大量は？",
+      "original_pointer": 379,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１袋まで",
+      "original_pointer": 445,
+      "translations": {}
+    },
+    {
+      "original_japanese": "０．５袋まで",
+      "original_pointer": 454,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２袋まで",
+      "original_pointer": 467,
+      "translations": {}
+    },
+    {
+      "original_japanese": "規定なし",
+      "original_pointer": 476,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ナゲットポーションの\nＵＨＣでの\nホールディングタイムは？",
+      "original_pointer": 485,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２０分",
+      "original_pointer": 542,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１５分",
+      "original_pointer": 549,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３０分",
+      "original_pointer": 556,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６０分",
+      "original_pointer": 563,
+      "translations": {}
+    },
+    {
+      "original_japanese": "シュリンプポーションを\nＵＨＣで保管するときの\nスロットの設定温度は？",
+      "original_pointer": 570,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９３℃",
+      "original_pointer": 639,
+      "translations": {}
+    },
+    {
+      "original_japanese": "７９℃",
+      "original_pointer": 646,
+      "translations": {}
+    },
+    {
+      "original_japanese": "８５℃",
+      "original_pointer": 653,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６９℃",
+      "original_pointer": 660,
+      "translations": {}
+    },
+    {
+      "original_japanese": "アップルパイの\n最大ホールディングタイムは？",
+      "original_pointer": 667,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９０分",
+      "original_pointer": 711,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６０分",
+      "original_pointer": 718,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３０分",
+      "original_pointer": 725,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１２０分",
+      "original_pointer": 732,
+      "translations": {}
+    },
+    {
+      "original_japanese": "アップルパイの\nクーリングタイムは？",
+      "original_pointer": 741,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２０分",
+      "original_pointer": 777,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３０分",
+      "original_pointer": 784,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９０分",
+      "original_pointer": 791,
+      "translations": {}
+    },
+    {
+      "original_japanese": "８分",
+      "original_pointer": 798,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フィッシュポーションを\nバスケットに入れたあとに\nするべきことは何か？",
+      "original_pointer": 803,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ワイヤーガードをかける",
+      "original_pointer": 872,
+      "translations": {}
+    },
+    {
+      "original_japanese": "バスケットをシェイクする",
+      "original_pointer": 895,
+      "translations": {}
+    },
+    {
+      "original_japanese": "資材補充",
+      "original_pointer": 920,
+      "translations": {}
+    },
+    {
+      "original_japanese": "エプロンをはずす",
+      "original_pointer": 929,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１／３サイズの\nフライトレーに並べられる\nフィッシュポーションの\n最大枚数は？",
+      "original_pointer": 946,
+      "translations": {}
+    },
+    {
+      "original_japanese": "７枚",
+      "original_pointer": 1022,
+      "translations": {}
+    },
+    {
+      "original_japanese": "８枚",
+      "original_pointer": 1027,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９枚",
+      "original_pointer": 1032,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１２枚",
+      "original_pointer": 1037,
+      "translations": {}
+    }
+  ]
+}

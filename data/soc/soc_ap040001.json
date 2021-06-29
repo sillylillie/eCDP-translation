@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap040001",
+  "strings": [
+    {
+      "original_japanese": "■二次汚染防止のため、フードセーフ\n　　ティで十分管理する",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■専用の抗菌ウェットワイパーをグリル\n　　サイドフリーザーに準備し、1時間に1回\n　　以上交換する。乾燥、汚れがひどい場\n　　合は交換する",
+      "original_pointer": 64,
+      "translations": {}
+    }
+  ]
+}

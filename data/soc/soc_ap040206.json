@@ -1,0 +1,30 @@
+{
+  "name": "soc_ap040206",
+  "strings": [
+    {
+      "original_japanese": "■リムーブに使用できる最大時間18秒\n■UHCトレーに並べられる最大枚数\n　　24枚(4段6列)",
+      "original_pointer": 12,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■パティの下にスパチュラを差し込み、\n　　グレーハツラースパチュラで落ちない\n　　ように押さえる\n■1回に1枚ずつリムーブして4枚重ねる",
+      "original_pointer": 96,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■スパチュラの刃が切れないと、持ち上\n　　げるときにパティが破損することがあ\n　　る。破損したパティはホットホールディ\n　　ング中に乾燥してしまう",
+      "original_pointer": 227,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■スパチュラを傾けて肉汁を切り、グレ\n　　ーハツラースパチュラでパティを押さ\n　　え、ライナーを敷いたUHCトレーにパ\n　　ティを重ねたまま移す",
+      "original_pointer": 371,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■新しく焼いたソーセージパティを古い\n　　ソーセージパティと同じトレーに入れ\n　　ない",
+      "original_pointer": 510,
+      "translations": {}
+    }
+  ]
+}

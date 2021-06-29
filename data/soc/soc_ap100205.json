@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap100205",
+  "strings": [
+    {
+      "original_japanese": "■お客様のオーダーが終わったことを確\n　　認するため、少し間をおく\n■合計金額を伝え、車をブースに誘導し、\n　　レジのストアキーを押す",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

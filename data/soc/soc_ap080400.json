@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap080400",
+  "strings": [
+    {
+      "original_japanese": "■網付きのトレーにチキンバスケットま\n　　たはパイバスケットをセットする\n■両手を使って、最大8ポーションをバ\n　　スケットに入れる",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■付属のワイヤーガードをかけて、調理\n　　時にポーションが浮き上がらないよう\n　　にする",
+      "original_pointer": 135,
+      "translations": {}
+    }
+  ]
+}

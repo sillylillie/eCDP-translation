@@ -1,0 +1,355 @@
+{
+  "name": "soc_tp00",
+  "strings": [
+    {
+      "original_japanese": "マックフライポテトのバスケッティング",
+      "original_pointer": 142,
+      "translations": {}
+    },
+    {
+      "original_japanese": "アーチフライディスペンサーを使って\nバスケッティング",
+      "original_pointer": 179,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①袋を開く",
+      "original_pointer": 231,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②ホッパーに入れる",
+      "original_pointer": 242,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③ホッパーにふたをする",
+      "original_pointer": 261,
+      "translations": {}
+    },
+    {
+      "original_japanese": "④残ったマックフライポテトを冷凍庫に戻す",
+      "original_pointer": 284,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑤バスケットに入れる量を設定する",
+      "original_pointer": 325,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑥アッパーガイドにバスケットをセットする",
+      "original_pointer": 358,
+      "translations": {}
+    },
+    {
+      "original_japanese": "手作業でのバスケッティング",
+      "original_pointer": 399,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①ポテトプレップテーブルに専用トレーを\n置きバスケットを４個並べる",
+      "original_pointer": 426,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②袋を開く",
+      "original_pointer": 492,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③バスケットに入れる",
+      "original_pointer": 503,
+      "translations": {}
+    },
+    {
+      "original_japanese": "④ポテトの入ったバスケットをラックに入れる",
+      "original_pointer": 524,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑤残ったマックフライポテトを冷凍庫に戻す",
+      "original_pointer": 567,
+      "translations": {}
+    },
+    {
+      "original_japanese": "クオリティ",
+      "original_pointer": 608,
+      "translations": {}
+    },
+    {
+      "original_japanese": "マックフライポテトに対してお客様が\n期待することは何か？",
+      "original_pointer": 619,
+      "translations": {}
+    },
+    {
+      "original_japanese": "準備",
+      "original_pointer": 675,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フライヤーの温度をチェックする",
+      "original_pointer": 680,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ポテトの種類",
+      "original_pointer": 711,
+      "translations": {}
+    },
+    {
+      "original_japanese": "手は洗ったか？",
+      "original_pointer": 724,
+      "translations": {}
+    },
+    {
+      "original_japanese": "マックフライポテトの調理",
+      "original_pointer": 739,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①バスケットを取り出す",
+      "original_pointer": 764,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②オイルの中に入れる",
+      "original_pointer": 787,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③タイマーを押す",
+      "original_pointer": 808,
+      "translations": {}
+    },
+    {
+      "original_japanese": "④タイマーがなったらポテトを振る",
+      "original_pointer": 825,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑤タイマーが鳴ったら取り出して\nオイルを切り HTタイマーを押す",
+      "original_pointer": 858,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑥ポテトをバギングトレーに移す",
+      "original_pointer": 919,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑦バスケットをバットの上に戻して\nオイルを落とす",
+      "original_pointer": 950,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑧すぐに塩を振り、かき混ぜる",
+      "original_pointer": 998,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑨バッグまたはボックスに入れる",
+      "original_pointer": 1027,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑩7分以内にサーブする",
+      "original_pointer": 1058,
+      "translations": {}
+    },
+    {
+      "original_japanese": "マックフライポテトのバギング",
+      "original_pointer": 1080,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①バギングスクープとフライバッグ\nまたはフライボックスを持ち上げる",
+      "original_pointer": 1109,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②スクープを挿入する",
+      "original_pointer": 1175,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③スクープとパッケージを持つ",
+      "original_pointer": 1196,
+      "translations": {}
+    },
+    {
+      "original_japanese": "④入れながらスクープを傾ける",
+      "original_pointer": 1225,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑤バッグまたはボックスをラックにのせる",
+      "original_pointer": 1254,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ローセールス時、ハイセールス時の\nマックフライポテトの調理\n　ローボリューム時間帯",
+      "original_pointer": 1293,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ローボリューム時間帯",
+      "original_pointer": 1374,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①バスケット①を入れる",
+      "original_pointer": 1395,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②バスケット①を引き出す",
+      "original_pointer": 1418,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③バスケット②を入れる",
+      "original_pointer": 1443,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ローセールス時、ハイセールス時の\nマックフライポテトの調理\n　ピークの時間帯",
+      "original_pointer": 1466,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ピークの時間帯",
+      "original_pointer": 1541,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①バスケット①を入れ、30秒後に②を入れる",
+      "original_pointer": 1556,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②バスケット③と④を入れる",
+      "original_pointer": 1597,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③バスケット①から順番引き出す",
+      "original_pointer": 1624,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ハッシュポテトの調理　クォリティ",
+      "original_pointer": 1655,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ハッシュポテトに対してお客様が\n期待することは何か？",
+      "original_pointer": 1688,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ハッシュポテトの調理　準備",
+      "original_pointer": 1740,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フライヤーの温度をチェックする",
+      "original_pointer": 1767,
+      "translations": {}
+    },
+    {
+      "original_japanese": "手は洗ったか？",
+      "original_pointer": 1798,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ハッシュポテトの調理",
+      "original_pointer": 1813,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①ハッシュポテトをバスケットに\n1枚ずつ入れる",
+      "original_pointer": 1834,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②バスケットをオイルの中に入れる",
+      "original_pointer": 1879,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③タイマーを押す",
+      "original_pointer": 1912,
+      "translations": {}
+    },
+    {
+      "original_japanese": "④タイマーが鳴ったら取り出してオイルを\n切り HTタイマーを押す",
+      "original_pointer": 1929,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑤バギングトレーに移す。空のバスケットは\nバットの上にかける",
+      "original_pointer": 1990,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑥必要に応じてハッシュポテトを\nパッケージングする",
+      "original_pointer": 2050,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑦10分以内にサーブする",
+      "original_pointer": 2100,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ステーションのメンテナンス",
+      "original_pointer": 2123,
+      "translations": {}
+    },
+    {
+      "original_japanese": "セーフティ",
+      "original_pointer": 2150,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ステーションのメンテナンス\n　オイルのメンテナンス",
+      "original_pointer": 2161,
+      "translations": {}
+    },
+    {
+      "original_japanese": "オイルの6つの敵",
+      "original_pointer": 2211,
+      "translations": {}
+    },
+    {
+      "original_japanese": "オイルケア",
+      "original_pointer": 2227,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ステーションのメンテナンス\n　クレンリネス",
+      "original_pointer": 2238,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フライステーションを清掃する",
+      "original_pointer": 2280,
+      "translations": {}
+    },
+    {
+      "original_japanese": "床を清掃する",
+      "original_pointer": 2309,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ステーションのメンテナンス　ストック",
+      "original_pointer": 2322,
+      "translations": {}
+    },
+    {
+      "original_japanese": "資材のストックレベルをチェックする",
+      "original_pointer": 2359,
+      "translations": {}
+    }
+  ]
+}

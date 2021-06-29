@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap080602",
+  "strings": [
+    {
+      "original_japanese": "■揚げカスがバット内に残っているとオ\n　　イルが劣化して、バットへのオイルの\n　　補充や交換頻度が多くなり、店舗コス\n　　トに影響する",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■ボリュームの低い時間帯など、未使用\n　　時にはバットにふたをする\n■ドライワイパーを使用し、バットエリア\n　　を拭く",
+      "original_pointer": 138,
+      "translations": {}
+    }
+  ]
+}

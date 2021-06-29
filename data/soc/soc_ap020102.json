@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap020102",
+  "strings": [
+    {
+      "original_japanese": "■有害な細菌やウイルス\n■化学薬品(洗剤などの清掃用品を誤っ\n　　て取り扱った場合)\n■金属片やガラスなどの異物",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap050803",
+  "strings": [
+    {
+      "original_japanese": "■スパチュラの刃が切れないと、グリル\n　　からリムーブするときに10:1パティが\n　　破損することがある",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■破損した10:1パティは肉汁が出てしま\n　　い、クォリティが下がりホットホールデ\n　　ィング時に乾燥してしまう",
+      "original_pointer": 105,
+      "translations": {}
+    }
+  ]
+}

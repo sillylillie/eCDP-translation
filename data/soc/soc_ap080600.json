@@ -1,0 +1,20 @@
+{
+  "name": "soc_ap080600",
+  "strings": [
+    {
+      "original_japanese": "火傷の危険を減らすには\n■オイルの取り扱い時に、必ず専用手袋、\n　　エプロン、フェイスシールドを着用する\n■熱いオイルの中に手を入れたり、勢い\n　　よく物を落としたりしない",
+      "original_pointer": 8,
+      "translations": {}
+    },
+    {
+      "original_japanese": "火災の危険を減らすには\n■フライヤーのスイッチを入れる前に、\n　　必ずバットにオイルを入れる\n■フライヤーをカリブレーションし、ハイ\n　　リミットスイッチを確認する",
+      "original_pointer": 177,
+      "translations": {}
+    },
+    {
+      "original_japanese": "火災の危険を減らすには\n■フライヤーを操作する前に、排気ファ\n　　ンのスイッチが入っていることを確認\n　　する\n■フライヤーのダクトのグリースパンを\n　　清掃する",
+      "original_pointer": 338,
+      "translations": {}
+    }
+  ]
+}

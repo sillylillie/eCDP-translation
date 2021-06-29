@@ -1,0 +1,25 @@
+{
+  "name": "soc_ap080300",
+  "strings": [
+    {
+      "original_japanese": "■網付きのトレーの上でナゲットポー\n　　ションをバスケットに入れる\n　　(1袋がフルラン)",
+      "original_pointer": 10,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■バスケットにポーションを均等に入れ\n　　る必要はないが、フライヤーにバスケ\n　　ットを入れたときに、どのピースもオイ\n　　ルに入るようにする",
+      "original_pointer": 96,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■1/2UHCトレー使用の場合、フルバス\n　　ケットで1袋分まで。\n　　1/3UHCトレー使用の場合、ハーフバス\n　　ケットで0.5袋分までストックが可能",
+      "original_pointer": 236,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■バスケットを振って、ナゲットポーション\n　　が適切な位置に収まるようにする。\n　　一部は手で正しい位置にする必要が\n　　ある",
+      "original_pointer": 372,
+      "translations": {}
+    }
+  ]
+}

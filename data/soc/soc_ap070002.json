@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap070002",
+  "strings": [
+    {
+      "original_japanese": "■KVSに注文が表示されてからサンド\n　　イッチが完成してHLZに置かれるまで\n　　の間、1分1秒が勝負",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■セールスボリュームが増えるほど、\n　　サービスゴールを達成するため、アッ\n　　センブルのスピードを上げなければ\n　　ならない",
+      "original_pointer": 101,
+      "translations": {}
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap020500",
+  "strings": [
+    {
+      "original_japanese": "■未調理の10:1パティ、殻付き卵、ソーセ\n　　ージパティには、食中毒の原因となる微\n　　生物が含まれている恐れがある",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

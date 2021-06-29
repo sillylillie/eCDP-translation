@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap091205",
+  "strings": [
+    {
+      "original_japanese": "■紙製品は24時間分、サンデーのトッピ\n　　ングに関しても一日もつ分量を入れる\n■ピーク時の前とクローズ時にはミック\n　　スの量を確認する",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■店舗でのストックの管理方法につい\n　　て、マネージャーに確認する\n■FIFOとはファーストインファーストア\n　　ウトのこと。必ず先に入れたストック\n　　を先に取り出す",
+      "original_pointer": 140,
+      "translations": {}
+    }
+  ]
+}

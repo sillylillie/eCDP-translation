@@ -1,0 +1,20 @@
+{
+  "name": "soc_ap020200",
+  "strings": [
+    {
+      "original_japanese": "■食品の調理や保管の正しい手順を守\n　　ることが重要",
+      "original_pointer": 8,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■冷たいプロダクトは低温で、温かいプ\n　　ロダクトは高温で保管することで、細\n　　菌の増殖を防いだり、遅らせたりするこ\n　　とができる",
+      "original_pointer": 60,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■ホットホールディングの温度とは、\n　　UHCやナゲットホールディングキャビ\n　　ネットなどの中で保管している原材料\n　　の内部温度をさす",
+      "original_pointer": 192,
+      "translations": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap050805",
+  "strings": [
+    {
+      "original_japanese": "■UHCトレー、グリルの用具、プレップテー\n　　ブルの用具、各種ホルダーはすべて、\n　　少なくとも4時間に1度は洗浄・殺菌\n　　する",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■これによって、エクイップメントでの細\n　　菌の増殖サイクルを断ち切ることがで\n　　きる",
+      "original_pointer": 131,
+      "translations": {}
+    }
+  ]
+}

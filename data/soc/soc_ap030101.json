@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap030101",
+  "strings": [
+    {
+      "original_japanese": "■卵は室温に戻してあるか確認する\n■エッグ水差しポットにぬるま湯を準備\n　　する",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

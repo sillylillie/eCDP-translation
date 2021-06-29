@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap070211",
+  "strings": [
+    {
+      "original_japanese": "■プレップテーブルで作業をしているク\n　　ルーが1人の場合は、すべてのサンド\n　　イッチをHLZに置いた後、オーダーを\n　　バンプする",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

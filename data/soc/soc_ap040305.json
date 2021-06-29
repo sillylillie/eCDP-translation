@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap040305",
+  "strings": [
+    {
+      "original_japanese": "■6枚をすべて裏返したら、ベーコンをリ\n　　ムーブする\n■エッグ用ターナーまたはミートスパ\n　　チュラを使って、並べた順にリムーブ\n　　する",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■ベーコンを1枚持ち上げて隣のベーコ\n　　ンに重ね、3枚まで重ねる\n■ライナーを敷いたUHCトレーにカナ\n　　ディアンベーコンを重ねたまま移す",
+      "original_pointer": 142,
+      "translations": {}
+    }
+  ]
+}

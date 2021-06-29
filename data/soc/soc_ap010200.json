@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap010200",
+  "strings": [
+    {
+      "original_japanese": "■トイレ、小便器、おむつ交換用テーブル\n　　を洗浄、殺菌する\n■McDレストルームクリーナーを使い、\n　　トイレの清掃には使い捨てのクロスを\n　　使用する",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■ピークタイムは15分に1回、清掃を実施\n　　する",
+      "original_pointer": 154,
+      "translations": {}
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "soc_ap050106",
+  "strings": [
+    {
+      "original_japanese": "■グリルシーズニングがディスペンサー\n　　内の補充ラインを下回っていないか確\n　　認する\n■補充ライン以下の場合、2倍以上の量\n　　が出るので注意",
+      "original_pointer": 8,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■手前の2列はディスペンサーの穴の面\n　　と10:1パティが水平になるように、奥の\n　　1列はディスペンサーを傾けてグリル\n　　シーズニングをふる",
+      "original_pointer": 150,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■奥の10:1パティに対し、少しでも手前\n　　で振ってしまうと、その手前の10:1パ\n　　ティに2度振られることになり、その部\n　　分のみ非常に塩辛くなる",
+      "original_pointer": 288,
+      "translations": {}
+    }
+  ]
+}

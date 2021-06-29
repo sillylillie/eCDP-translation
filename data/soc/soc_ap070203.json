@@ -1,0 +1,20 @@
+{
+  "name": "soc_ap070203",
+  "strings": [
+    {
+      "original_japanese": "■バンズの種類：レギュラーバンズ、クォ\n　　ーターパウンダーバンズ、ビッグマック\n　　バンズ\n■1度に入れられるバンズは2個まで",
+      "original_pointer": 8,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■レギュラー、クォーターパウンダーバン\n　　ズの場合\n　　ヒールを手前のスロットに入れ、クラウ\n　　ンを奥のスロットに入れる",
+      "original_pointer": 132,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■ビッグマックバンズの場合\n　　ヒールとクラブを手前のスロットに入\n　　れ、クラウンを奥のスロットに入れる。\n　　切り口は中央のプラテンに当てる。\n　　クラブの切り口は一方だけをトースト\n　　する",
+      "original_pointer": 254,
+      "translations": {}
+    }
+  ]
+}

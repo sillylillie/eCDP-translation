@@ -1,0 +1,105 @@
+{
+  "name": "ses_cp",
+  "strings": [
+    {
+      "original_japanese": "マックフライポテト",
+      "original_pointer": 42,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ハッシュポテト",
+      "original_pointer": 61,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ロット＆ロビー",
+      "original_pointer": 76,
+      "translations": {}
+    },
+    {
+      "original_japanese": "エッグ",
+      "original_pointer": 91,
+      "translations": {}
+    },
+    {
+      "original_japanese": "イングリッシュマフィン",
+      "original_pointer": 98,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ソーセージパティ",
+      "original_pointer": 121,
+      "translations": {}
+    },
+    {
+      "original_japanese": "カナディアンベーコン",
+      "original_pointer": 138,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１０：１パティ",
+      "original_pointer": 159,
+      "translations": {}
+    },
+    {
+      "original_japanese": "４：１パティ",
+      "original_pointer": 174,
+      "translations": {}
+    },
+    {
+      "original_japanese": "てりやきパティ",
+      "original_pointer": 187,
+      "translations": {}
+    },
+    {
+      "original_japanese": "エッグマックマフィン",
+      "original_pointer": 202,
+      "translations": {}
+    },
+    {
+      "original_japanese": "チーズバーガー",
+      "original_pointer": 223,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ビッグマック",
+      "original_pointer": 238,
+      "translations": {}
+    },
+    {
+      "original_japanese": "クォーターパウンダー",
+      "original_pointer": 251,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ダブルクォーターパウンダー",
+      "original_pointer": 272,
+      "translations": {}
+    },
+    {
+      "original_japanese": "てりやきマックバーガー",
+      "original_pointer": 299,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フィレオフィッシュ",
+      "original_pointer": 322,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フィッシュポーション",
+      "original_pointer": 341,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フロントカウンター",
+      "original_pointer": 362,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ドライブスルー",
+      "original_pointer": 381,
+      "translations": {}
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "soc_ap090005",
+  "strings": [
+    {
+      "original_japanese": "■フロントカウンターでのお客様のTEタ\n　　イムは、3分30秒を超えてはならない\n■フロントカウンターのラインは滞ること\n　　なく、回転し続ける必要がある",
+      "original_pointer": 8,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■オーダーテイカー/キャッシャーは、常\n　　にカウンターの定位置について、次の\n　　お客様を迎えられる姿勢でいる",
+      "original_pointer": 155,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■バックアップパーソンはラインを前進\n　　させるため、オーダーを手早くアッセ\n　　ンブルする\n■両方のチームメンバーが協力すること\n　　が重要",
+      "original_pointer": 265,
+      "translations": {}
+    }
+  ]
+}

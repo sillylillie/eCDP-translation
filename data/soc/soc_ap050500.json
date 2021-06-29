@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap050500",
+  "strings": [
+    {
+      "original_japanese": "■UHCで十分なキャビネットレベルを確\n　　保または維持するため、バッチクッキ\n　　ングが必要になる場合がある\n■バッチクッキングをいつ行うかについ\n　　ては、マネージャーに確認する",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

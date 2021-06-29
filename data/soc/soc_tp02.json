@@ -1,0 +1,65 @@
+{
+  "name": "soc_tp02",
+  "strings": [
+    {
+      "original_japanese": "準備",
+      "original_pointer": 26,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①微生物",
+      "original_pointer": 31,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②食品の保管温度",
+      "original_pointer": 40,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③基本的な衛生対策",
+      "original_pointer": 57,
+      "translations": {}
+    },
+    {
+      "original_japanese": "④手洗い",
+      "original_pointer": 76,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑤二次汚染の防止",
+      "original_pointer": 85,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全2ページ",
+      "original_pointer": 102,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全6ページ",
+      "original_pointer": 112,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全5ページ",
+      "original_pointer": 122,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全5ページ",
+      "original_pointer": 132,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全14ページ",
+      "original_pointer": 142,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全10ページ",
+      "original_pointer": 153,
+      "translations": {}
+    }
+  ]
+}

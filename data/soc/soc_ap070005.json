@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap070005",
+  "strings": [
+    {
+      "original_japanese": "■KVSに表示された注文は、イニシエー\n　　ターに対して、どのバンズをトースト、\n　　スチームするかを知らせてくれる",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

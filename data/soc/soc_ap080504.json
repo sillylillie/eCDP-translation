@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap080504",
+  "strings": [
+    {
+      "original_japanese": "■バスケットを傾けてパイをひとつずつ\n　　取り出し、清潔なトレーに火ぶくれので\n　　きた面を上にして並べる",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■空のバスケットはバットの上にかけて\n　　残ったオイルをバットに落とし、床など\n　　にこぼさないようにする",
+      "original_pointer": 111,
+      "translations": {}
+    }
+  ]
+}

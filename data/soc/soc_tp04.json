@@ -1,0 +1,55 @@
+{
+  "name": "soc_tp04",
+  "strings": [
+    {
+      "original_japanese": "準備",
+      "original_pointer": 22,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①ソーセージパティ(2プラテン)",
+      "original_pointer": 27,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②ソーセージパティ(3プラテン)",
+      "original_pointer": 57,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③カナディアンベーコン",
+      "original_pointer": 87,
+      "translations": {}
+    },
+    {
+      "original_japanese": "④メンテナンス",
+      "original_pointer": 110,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全7ページ",
+      "original_pointer": 125,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全10ページ",
+      "original_pointer": 135,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全10ページ",
+      "original_pointer": 146,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全7ページ",
+      "original_pointer": 157,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全11ページ",
+      "original_pointer": 167,
+      "translations": {}
+    }
+  ]
+}

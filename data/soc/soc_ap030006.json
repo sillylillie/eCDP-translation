@@ -1,0 +1,20 @@
+{
+  "name": "soc_ap030006",
+  "strings": [
+    {
+      "original_japanese": "■イエローハツラースパチュラは、卵の黄\n　　身をツイストするのに使う\n■エッグ用ターナーはカナディアンベー\n　　コンの焼成とエッグのリムーブ時に使\n　　う",
+      "original_pointer": 8,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■スパチュラを専用の角ポット等に入れ、\n　　4時間に1回洗浄し殺菌する",
+      "original_pointer": 159,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■二次汚染を防ぐために、必要に応じて、\n　　イエローハツラースパチュラの先端部\n　　分をヒートプレートに押し当てて、熱\n　　殺菌する",
+      "original_pointer": 227,
+      "translations": {}
+    }
+  ]
+}

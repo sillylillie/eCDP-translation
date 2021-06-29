@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap080500",
+  "strings": [
+    {
+      "original_japanese": "■網付きのトレーにパイバスケットをセ\n　　ットする\n■両手を使って、最大8個、2段式のバス\n　　ケットであれば最大16個のパイをバス\n　　ケットに入れる",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■付属のワイヤーガードをかけて、調理\n　　時にパイが浮き上がらないようにする",
+      "original_pointer": 151,
+      "translations": {}
+    }
+  ]
+}

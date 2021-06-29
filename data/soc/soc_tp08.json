@@ -1,0 +1,75 @@
+{
+  "name": "soc_tp08",
+  "strings": [
+    {
+      "original_japanese": "準備",
+      "original_pointer": 30,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①フィッシュポーション",
+      "original_pointer": 35,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②プレミアチキンパティ",
+      "original_pointer": 58,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③ナゲットポーション",
+      "original_pointer": 81,
+      "translations": {}
+    },
+    {
+      "original_japanese": "④シュリンプポーション",
+      "original_pointer": 102,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑤アップルパイ",
+      "original_pointer": 125,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑥メンテナンス",
+      "original_pointer": 140,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全11ページ",
+      "original_pointer": 155,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全5ページ",
+      "original_pointer": 166,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全5ページ",
+      "original_pointer": 176,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全6ページ",
+      "original_pointer": 186,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全5ページ",
+      "original_pointer": 196,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全6ページ",
+      "original_pointer": 206,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全10ページ",
+      "original_pointer": 216,
+      "translations": {}
+    }
+  ]
+}

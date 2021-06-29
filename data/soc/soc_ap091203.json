@@ -1,0 +1,20 @@
+{
+  "name": "soc_ap091203",
+  "strings": [
+    {
+      "original_japanese": "■清潔で整頓された状態を維持する\n■清潔なカウンタークロス(ピンク)を使\n　　って、定期的に清掃する",
+      "original_pointer": 8,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■カウンターの上と前、マックフルーリー\n　　ブレンダーとスプラッシュガード、その\n　　他のエクイップメント、及び表面を拭\n　　く",
+      "original_pointer": 105,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■用具は、少なくとも4時間に一度は洗\n　　浄して殺菌する",
+      "original_pointer": 231,
+      "translations": {}
+    }
+  ]
+}

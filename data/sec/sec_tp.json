@@ -1,0 +1,60 @@
+{
+  "name": "sec_tp",
+  "strings": [
+    {
+      "original_japanese": "フードセーフティ",
+      "original_pointer": 24,
+      "translations": {}
+    },
+    {
+      "original_japanese": "マックフライポテトとハッシュポテト",
+      "original_pointer": 41,
+      "translations": {}
+    },
+    {
+      "original_japanese": "BFストック",
+      "original_pointer": 76,
+      "translations": {}
+    },
+    {
+      "original_japanese": "BFミート",
+      "original_pointer": 87,
+      "translations": {}
+    },
+    {
+      "original_japanese": "グリルプロダクト",
+      "original_pointer": 96,
+      "translations": {}
+    },
+    {
+      "original_japanese": "アッセンブル（BF）",
+      "original_pointer": 113,
+      "translations": {}
+    },
+    {
+      "original_japanese": "アッセンブル（DAY）",
+      "original_pointer": 132,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フライプロダクト",
+      "original_pointer": 152,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フロントカウンター",
+      "original_pointer": 169,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ドライブスルー",
+      "original_pointer": 188,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ロット＆ロビー",
+      "original_pointer": 203,
+      "translations": {}
+    }
+  ]
+}

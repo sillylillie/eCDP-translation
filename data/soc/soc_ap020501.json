@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap020501",
+  "strings": [
+    {
+      "original_japanese": "■生の原材料からの細菌が手、器具、\n　　機器の表面から、調理せずに食べら\n　　れる食品に移ることがある",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap100308",
+  "strings": [
+    {
+      "original_japanese": "■ホールディングタイムとシェルフライ\n　　フを確認する\n■ドライブスルーモニターを見ながら、\n　　オーダーが合っているか確認する",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■取り揃えの状態が確認できるよう、取\n　　り揃えが終わっていないバッグは、開\n　　けたままにしておく",
+      "original_pointer": 132,
+      "translations": {}
+    }
+  ]
+}

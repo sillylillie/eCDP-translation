@@ -1,0 +1,255 @@
+{
+  "name": "sec_dp10",
+  "strings": [
+    {
+      "original_japanese": "カウンターでお客様に\nあいさつをしてから\n商品を手渡しするまでの\n時間は？",
+      "original_pointer": 102,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９０秒以内",
+      "original_pointer": 174,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１２０秒以内",
+      "original_pointer": 185,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３分以内",
+      "original_pointer": 198,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３分３０秒以内",
+      "original_pointer": 207,
+      "translations": {}
+    },
+    {
+      "original_japanese": "カウンターでお客様に\n合計金額を伝えてから\n商品を手渡しするまでの\n時間は？",
+      "original_pointer": 222,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６０秒以内",
+      "original_pointer": 296,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９０秒以内",
+      "original_pointer": 307,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１２０秒以内",
+      "original_pointer": 318,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３分以内",
+      "original_pointer": 331,
+      "translations": {}
+    },
+    {
+      "original_japanese": "接客作業で\n最初におこなうことは何か？",
+      "original_pointer": 340,
+      "translations": {}
+    },
+    {
+      "original_japanese": "あいさつ",
+      "original_pointer": 378,
+      "translations": {}
+    },
+    {
+      "original_japanese": "注文の承り",
+      "original_pointer": 387,
+      "translations": {}
+    },
+    {
+      "original_japanese": "商品の取り揃え",
+      "original_pointer": 398,
+      "translations": {}
+    },
+    {
+      "original_japanese": "代金の授受",
+      "original_pointer": 413,
+      "translations": {}
+    },
+    {
+      "original_japanese": "オーダーテイク開始から\n合計金額を伝えるまでの\n時間は？",
+      "original_pointer": 424,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２０〜２５秒",
+      "original_pointer": 479,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６０秒以内",
+      "original_pointer": 492,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３０秒以内",
+      "original_pointer": 503,
+      "translations": {}
+    },
+    {
+      "original_japanese": "４５秒以内",
+      "original_pointer": 514,
+      "translations": {}
+    },
+    {
+      "original_japanese": "次の [　　　　] に入る\n言葉を選んでください\n\n『ソフトドリンクをつくるとき\nには、カップの [　　　　] まで\n氷を入れる』",
+      "original_pointer": 525,
+      "translations": {}
+    },
+    {
+      "original_japanese": "下から１本目の線",
+      "original_pointer": 643,
+      "translations": {}
+    },
+    {
+      "original_japanese": "下から２本目の線",
+      "original_pointer": 660,
+      "translations": {}
+    },
+    {
+      "original_japanese": "下から３本目の線",
+      "original_pointer": 677,
+      "translations": {}
+    },
+    {
+      "original_japanese": "規定なし",
+      "original_pointer": 694,
+      "translations": {}
+    },
+    {
+      "original_japanese": "「代金の授受」は、\nカウンター６ステップの\n何番目か？",
+      "original_pointer": 703,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３番目",
+      "original_pointer": 756,
+      "translations": {}
+    },
+    {
+      "original_japanese": "４番目",
+      "original_pointer": 763,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２番目",
+      "original_pointer": 770,
+      "translations": {}
+    },
+    {
+      "original_japanese": "５番目",
+      "original_pointer": 777,
+      "translations": {}
+    },
+    {
+      "original_japanese": "接客の方法で\n適切でないものはどれか？",
+      "original_pointer": 784,
+      "translations": {}
+    },
+    {
+      "original_japanese": "早口で話す",
+      "original_pointer": 822,
+      "translations": {}
+    },
+    {
+      "original_japanese": "笑顔であいさつ",
+      "original_pointer": 833,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フレンドリーな応対",
+      "original_pointer": 848,
+      "translations": {}
+    },
+    {
+      "original_japanese": "アイコンタクト",
+      "original_pointer": 867,
+      "translations": {}
+    },
+    {
+      "original_japanese": "「注文品の取り揃え」は、\nカウンター６ステップの\n何番目か？",
+      "original_pointer": 882,
+      "translations": {}
+    },
+    {
+      "original_japanese": "４番目",
+      "original_pointer": 941,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３番目",
+      "original_pointer": 948,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２番目",
+      "original_pointer": 955,
+      "translations": {}
+    },
+    {
+      "original_japanese": "５番目",
+      "original_pointer": 962,
+      "translations": {}
+    },
+    {
+      "original_japanese": "コールドデザートに対して、\nお客様が期待していないものは\nどれか？",
+      "original_pointer": 969,
+      "translations": {}
+    },
+    {
+      "original_japanese": "アツアツ",
+      "original_pointer": 1034,
+      "translations": {}
+    },
+    {
+      "original_japanese": "安全な商品",
+      "original_pointer": 1043,
+      "translations": {}
+    },
+    {
+      "original_japanese": "クリーミーで溶けていない",
+      "original_pointer": 1054,
+      "translations": {}
+    },
+    {
+      "original_japanese": "アピアランスがよい",
+      "original_pointer": 1079,
+      "translations": {}
+    },
+    {
+      "original_japanese": "次の [　　　　] に入る\n言葉を選んでください\n\n『テイクアウトでは、ポテトは\nバッグに [　　　　] 入れる』",
+      "original_pointer": 1098,
+      "translations": {}
+    },
+    {
+      "original_japanese": "立てて",
+      "original_pointer": 1201,
+      "translations": {}
+    },
+    {
+      "original_japanese": "寝かせて",
+      "original_pointer": 1208,
+      "translations": {}
+    },
+    {
+      "original_japanese": "詰め込んで",
+      "original_pointer": 1217,
+      "translations": {}
+    },
+    {
+      "original_japanese": "強引に",
+      "original_pointer": 1228,
+      "translations": {}
+    }
+  ]
+}

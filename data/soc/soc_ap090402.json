@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap090402",
+  "strings": [
+    {
+      "original_japanese": "■アッセンブルの順序\n　　●コンディメント、コールドドリンク\n　　●シェイク、ホットドリンク\n　　●サラダ、サンドイッチ\n　　●パイ、ポテト\n　　●コールドデザート",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

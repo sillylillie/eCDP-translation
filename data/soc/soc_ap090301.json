@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap090301",
+  "strings": [
+    {
+      "original_japanese": "■お客様のオーダーが終わったことを確\n　　認するため、少し間をおく\n■オーダーの合計金額をお客様に伝える",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

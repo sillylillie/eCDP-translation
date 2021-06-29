@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap070101",
+  "strings": [
+    {
+      "original_japanese": "■レギュラーメニューに移行するときに、\n　　プレップテーブルのスイッチが入って\n　　いることを確認する",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■プレップテーブルにおいて、原材料は\n　　長時間放置せず、ホールディングタイ\n　　ムが過ぎたらウエストする",
+      "original_pointer": 107,
+      "translations": {}
+    }
+  ]
+}

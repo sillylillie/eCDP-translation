@@ -1,0 +1,255 @@
+{
+  "name": "sec_dp04",
+  "strings": [
+    {
+      "original_japanese": "次の [　　　　] に入る\n言葉を選んでください\n\n『 [　　　　] を使い、\n１時間に１回以上手を洗うこと』",
+      "original_pointer": 102,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ＭｃＤハンドソープ",
+      "original_pointer": 201,
+      "translations": {}
+    },
+    {
+      "original_japanese": "消毒保管庫",
+      "original_pointer": 220,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ＭｃＤ中性洗剤",
+      "original_pointer": 231,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ホウキとちりとり",
+      "original_pointer": 246,
+      "translations": {}
+    },
+    {
+      "original_japanese": "卵の黄身を均一にならすためには\nイエローハツラースパチュラを\n何度ツイストさせるか？",
+      "original_pointer": 263,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１８０°",
+      "original_pointer": 346,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９０°",
+      "original_pointer": 355,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２７０°",
+      "original_pointer": 362,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３６０°",
+      "original_pointer": 371,
+      "translations": {}
+    },
+    {
+      "original_japanese": "エッグを製造するときの\n温度は？",
+      "original_pointer": 380,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１３２℃〜１３８℃",
+      "original_pointer": 412,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１３０℃〜１４０℃",
+      "original_pointer": 431,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１３５℃〜１４５℃",
+      "original_pointer": 450,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１４０℃以上",
+      "original_pointer": 469,
+      "translations": {}
+    },
+    {
+      "original_japanese": "エッグクッカーのリングに\nクッキングオイルをスプレーする\nときは、何センチ離して\nスプレーするか？",
+      "original_pointer": 482,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１０ｃｍ",
+      "original_pointer": 578,
+      "translations": {}
+    },
+    {
+      "original_japanese": "５ｃｍ",
+      "original_pointer": 587,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１５ｃｍ",
+      "original_pointer": 594,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２０ｃｍ",
+      "original_pointer": 603,
+      "translations": {}
+    },
+    {
+      "original_japanese": "イングリッシュマフィンに対して、\nお客様が期待していないものは\nどれか？",
+      "original_pointer": 612,
+      "translations": {}
+    },
+    {
+      "original_japanese": "程よい塩加減",
+      "original_pointer": 683,
+      "translations": {}
+    },
+    {
+      "original_japanese": "程よい焼きムラ",
+      "original_pointer": 696,
+      "translations": {}
+    },
+    {
+      "original_japanese": "カリッとした食感",
+      "original_pointer": 711,
+      "translations": {}
+    },
+    {
+      "original_japanese": "正しい焼成",
+      "original_pointer": 728,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ＵＨＣトレーに並べられる\nイングリッシュマフィンの\n最大食数は？",
+      "original_pointer": 739,
+      "translations": {}
+    },
+    {
+      "original_japanese": "５食",
+      "original_pointer": 802,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６食",
+      "original_pointer": 807,
+      "translations": {}
+    },
+    {
+      "original_japanese": "８食",
+      "original_pointer": 812,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９食",
+      "original_pointer": 817,
+      "translations": {}
+    },
+    {
+      "original_japanese": "イングリッシュマフィンに\nクッキングオイルをスプレーする\n部分は？",
+      "original_pointer": 822,
+      "translations": {}
+    },
+    {
+      "original_japanese": "焼成したクラウンの面",
+      "original_pointer": 887,
+      "translations": {}
+    },
+    {
+      "original_japanese": "焼成したヒールの面",
+      "original_pointer": 908,
+      "translations": {}
+    },
+    {
+      "original_japanese": "クラウン・ヒールのどちらも",
+      "original_pointer": 927,
+      "translations": {}
+    },
+    {
+      "original_japanese": "どこでもよい",
+      "original_pointer": 954,
+      "translations": {}
+    },
+    {
+      "original_japanese": "グリドルケーキをアッセンブル\nするためにＱ−ｉｎｇする際、\n大型Ｑ−ｉｎｇトレーには\n最大何個入れられるか？",
+      "original_pointer": 967,
+      "translations": {}
+    },
+    {
+      "original_japanese": "４個",
+      "original_pointer": 1073,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２個",
+      "original_pointer": 1078,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３個",
+      "original_pointer": 1083,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６個",
+      "original_pointer": 1088,
+      "translations": {}
+    },
+    {
+      "original_japanese": "グリドルケーキのＱ−ｉｎｇ後の\nクーリングタイムは？",
+      "original_pointer": 1093,
+      "translations": {}
+    },
+    {
+      "original_japanese": "８分",
+      "original_pointer": 1145,
+      "translations": {}
+    },
+    {
+      "original_japanese": "７分",
+      "original_pointer": 1150,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１０分",
+      "original_pointer": 1155,
+      "translations": {}
+    },
+    {
+      "original_japanese": "５分",
+      "original_pointer": 1162,
+      "translations": {}
+    },
+    {
+      "original_japanese": "イングリッシュマフィンの\n焼成時、バンスパチュラの\nハンドル側に並べるのは\nどれか？",
+      "original_pointer": 1167,
+      "translations": {}
+    },
+    {
+      "original_japanese": "クラウン",
+      "original_pointer": 1249,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ヒール",
+      "original_pointer": 1258,
+      "translations": {}
+    },
+    {
+      "original_japanese": "どちらでもよい",
+      "original_pointer": 1265,
+      "translations": {}
+    },
+    {
+      "original_japanese": "クラブ",
+      "original_pointer": 1280,
+      "translations": {}
+    }
+  ]
+}

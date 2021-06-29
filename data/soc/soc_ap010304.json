@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap010304",
+  "strings": [
+    {
+      "original_japanese": "■ゴミ置き場にゴミを移動するときは、\n　　絶対に引きずらない\n■ゴミが見えないようにする。ゴミで満\n　　杯の袋を駐車場エリアに放置しない",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■ゴミ置き場のゲートは閉めておき、\n　　きれいにしておく。ゴミ袋をゲート越し\n　　に投げ入れてはいけない\n■ゴミ置き場から戻ったときは手を洗う",
+      "original_pointer": 140,
+      "translations": {}
+    }
+  ]
+}

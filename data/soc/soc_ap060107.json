@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap060107",
+  "strings": [
+    {
+      "original_japanese": "■UHCチャートのストック数に従う。\n　　ストック量が減ったら、グリルパーソン\n　　に知らせる",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■新鮮なプロダクトは、シェルフライフ\n　　とホールディングタイムが守られた\n　　クォリティの高い原材料から作られる",
+      "original_pointer": 96,
+      "translations": {}
+    }
+  ]
+}

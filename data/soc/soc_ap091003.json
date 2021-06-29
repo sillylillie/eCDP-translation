@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap091003",
+  "strings": [
+    {
+      "original_japanese": "■カップの上までソフトクリームを入れ\n　　るが、入れすぎないように注意\n■目安は4回転半、カップの8〜9分目程\n　　度入れる",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■カップにソフトクリームを入れすぎる\n　　と、サンデーのトッピングがサンデー\n　　のサイドに広がるスペースがなくなり、\n　　トップもリッドでつぶれてしまう",
+      "original_pointer": 125,
+      "translations": {}
+    }
+  ]
+}

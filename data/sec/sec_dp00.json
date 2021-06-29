@@ -1,0 +1,255 @@
+{
+  "name": "sec_dp00",
+  "strings": [
+    {
+      "original_japanese": "調理前のマックフライポテトの\n袋の保管場所は？",
+      "original_pointer": 102,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ポテトフリーザー",
+      "original_pointer": 148,
+      "translations": {}
+    },
+    {
+      "original_japanese": "冷蔵庫",
+      "original_pointer": 165,
+      "translations": {}
+    },
+    {
+      "original_japanese": "倉庫",
+      "original_pointer": 172,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ミートフリーザー",
+      "original_pointer": 177,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ハイセールス時にはポテト１袋を\nバスケット何個分に分けるか？",
+      "original_pointer": 194,
+      "translations": {}
+    },
+    {
+      "original_japanese": "４個分",
+      "original_pointer": 254,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３個分",
+      "original_pointer": 261,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６個分",
+      "original_pointer": 268,
+      "translations": {}
+    },
+    {
+      "original_japanese": "８個分",
+      "original_pointer": 275,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ポテトを製造するときの\nフライヤーの温度は？",
+      "original_pointer": 282,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１６８℃",
+      "original_pointer": 326,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１６６℃",
+      "original_pointer": 335,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１７８℃",
+      "original_pointer": 344,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１８２℃",
+      "original_pointer": 353,
+      "translations": {}
+    },
+    {
+      "original_japanese": "マックフライポテトを\nフルバットで製造するときの\n時間は？　",
+      "original_pointer": 362,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２分５５秒±５秒",
+      "original_pointer": 421,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２分４５秒±５秒",
+      "original_pointer": 438,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３分±５秒",
+      "original_pointer": 455,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３分１５秒±５秒",
+      "original_pointer": 466,
+      "translations": {}
+    },
+    {
+      "original_japanese": "同じバットにポテトをダウン\nするときは、次のバスケットは\n何秒以上、時間をおかなければ\nならないか？",
+      "original_pointer": 483,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３０秒以上",
+      "original_pointer": 581,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１０秒以上",
+      "original_pointer": 592,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２０秒以上",
+      "original_pointer": 603,
+      "translations": {}
+    },
+    {
+      "original_japanese": "すぐに入れても構わない",
+      "original_pointer": 614,
+      "translations": {}
+    },
+    {
+      "original_japanese": "次の [　　　　] に入る\n言葉を選んでください\n\n『ポテトが床に落ちていたら、\n [　　　　] を使用して拾う』",
+      "original_pointer": 637,
+      "translations": {}
+    },
+    {
+      "original_japanese": "トング大",
+      "original_pointer": 740,
+      "translations": {}
+    },
+    {
+      "original_japanese": "バギングスクープ",
+      "original_pointer": 749,
+      "translations": {}
+    },
+    {
+      "original_japanese": "手",
+      "original_pointer": 766,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ポテトバッグ",
+      "original_pointer": 769,
+      "translations": {}
+    },
+    {
+      "original_japanese": "次の [　　　　] に入る\n言葉を選んでください\n\n『ポテトに塩をふるときは、\n [　　　　] を描くようにふる』",
+      "original_pointer": 782,
+      "translations": {}
+    },
+    {
+      "original_japanese": "トリプルアーチ",
+      "original_pointer": 885,
+      "translations": {}
+    },
+    {
+      "original_japanese": "Ｍマーク",
+      "original_pointer": 900,
+      "translations": {}
+    },
+    {
+      "original_japanese": "山なり",
+      "original_pointer": 909,
+      "translations": {}
+    },
+    {
+      "original_japanese": "円",
+      "original_pointer": 916,
+      "translations": {}
+    },
+    {
+      "original_japanese": "マックフライポテトに対して、\nお客様が期待していないものは\nどれか？",
+      "original_pointer": 919,
+      "translations": {}
+    },
+    {
+      "original_japanese": "冷たい食感",
+      "original_pointer": 986,
+      "translations": {}
+    },
+    {
+      "original_japanese": "アツアツでフレッシュ",
+      "original_pointer": 997,
+      "translations": {}
+    },
+    {
+      "original_japanese": "程よい塩加減",
+      "original_pointer": 1018,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フルバッグ",
+      "original_pointer": 1031,
+      "translations": {}
+    },
+    {
+      "original_japanese": "次の [　　　　] に入る\n言葉を選んでください\n\n『オイルのフィルタリング時は、\n必ず専用手袋、エプロン、\n [　　　　] を着用する』",
+      "original_pointer": 1042,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フェイスシールド",
+      "original_pointer": 1168,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ストップウォッチ",
+      "original_pointer": 1185,
+      "translations": {}
+    },
+    {
+      "original_japanese": "バイザー",
+      "original_pointer": 1202,
+      "translations": {}
+    },
+    {
+      "original_japanese": "セーター",
+      "original_pointer": 1211,
+      "translations": {}
+    },
+    {
+      "original_japanese": "オイルの６つの敵でないものを\n選んでください",
+      "original_pointer": 1220,
+      "translations": {}
+    },
+    {
+      "original_japanese": "栄養素",
+      "original_pointer": 1264,
+      "translations": {}
+    },
+    {
+      "original_japanese": "揚げカス",
+      "original_pointer": 1271,
+      "translations": {}
+    },
+    {
+      "original_japanese": "熱",
+      "original_pointer": 1280,
+      "translations": {}
+    },
+    {
+      "original_japanese": "塩",
+      "original_pointer": 1283,
+      "translations": {}
+    }
+  ]
+}

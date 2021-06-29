@@ -1,0 +1,20 @@
+{
+  "name": "soc_ap080001",
+  "strings": [
+    {
+      "original_japanese": "■1日1回、温度設定を確認する\n■フライヤーのクッキング設定が正しく\n　　ないと、チキンやフィッシュが加熱し\n　　すぎたり、加熱不足になったりする",
+      "original_pointer": 8,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■フードセーフティを確保するため、フ\n　　ライヤーの温度と時間の設定はとても\n　　重要である",
+      "original_pointer": 150,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■調理したプロダクトが必ずその適切な\n　　内部温度を満たすよう、必要に応じて\n　　クッキングタイムを調整する",
+      "original_pointer": 241,
+      "translations": {}
+    }
+  ]
+}

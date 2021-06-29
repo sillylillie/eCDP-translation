@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap040304",
+  "strings": [
+    {
+      "original_japanese": "■6枚を並べ終えたら、ベーコンをターン\n　　する\n■並べてから4秒または3秒後に、エッグ\n　　ターナーまたはミートスパチュラで並\n　　べた時と同じ順にターンする",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

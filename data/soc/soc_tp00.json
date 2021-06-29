@@ -1,0 +1,85 @@
+{
+  "name": "soc_tp00",
+  "strings": [
+    {
+      "original_japanese": "準備(マックフライポテト)",
+      "original_pointer": 34,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①バスケッティング(アーチ)",
+      "original_pointer": 59,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②バスケッティング(手作業)",
+      "original_pointer": 86,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③調理(マックフライポテト)",
+      "original_pointer": 113,
+      "translations": {}
+    },
+    {
+      "original_japanese": "④セールスごとの調理",
+      "original_pointer": 140,
+      "translations": {}
+    },
+    {
+      "original_japanese": "準備(ハッシュポテト)",
+      "original_pointer": 161,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑤調理(ハッシュポテト)",
+      "original_pointer": 182,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑥メンテナンス",
+      "original_pointer": 205,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全4ページ",
+      "original_pointer": 220,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全5ページ",
+      "original_pointer": 230,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全4ページ",
+      "original_pointer": 240,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全17ページ",
+      "original_pointer": 250,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全6ページ",
+      "original_pointer": 261,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全3ページ",
+      "original_pointer": 271,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全7ページ",
+      "original_pointer": 281,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全14ページ",
+      "original_pointer": 291,
+      "translations": {}
+    }
+  ]
+}

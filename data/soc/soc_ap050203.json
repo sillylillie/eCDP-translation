@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap050203",
+  "strings": [
+    {
+      "original_japanese": "■調理後に10:1パティのふちが赤い場合\n　　は、使用しないこと",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

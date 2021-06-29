@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap080503",
+  "strings": [
+    {
+      "original_japanese": "■パイのホールディングタイムは、クー\n　　リングタイム20分後70分の合計90分",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

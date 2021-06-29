@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap070505",
+  "strings": [
+    {
+      "original_japanese": "■クラブにのせたレタスの上に、ピクルス\n　　が重ならないようにのせる\n■ピクルスが小さい場合は3枚のせる",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

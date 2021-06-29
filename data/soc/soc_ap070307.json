@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap070307",
+  "strings": [
+    {
+      "original_japanese": "■専用トングを使って、ハンバーガーの\n　　場合はピクルスの上に、チーズバー\n　　ガーの場合はスライスチーズの上に\n　　10:1パティをのせる",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■パティを取り出すときはファーストイン\n　　ファーストアウトを守る",
+      "original_pointer": 140,
+      "translations": {}
+    }
+  ]
+}

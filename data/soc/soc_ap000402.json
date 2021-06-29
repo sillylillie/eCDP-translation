@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap000402",
+  "strings": [
+    {
+      "original_japanese": "■ボリュームの低い時間は、必要なとき\n　　にバギングする\n■フライリボンではなく、バギングトレー\n　　に保管する",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "soc_tp06",
+  "strings": [
+    {
+      "original_japanese": "準備",
+      "original_pointer": 26,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①保管とホットホールディング",
+      "original_pointer": 31,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②エッグマックマフィン",
+      "original_pointer": 60,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③ホットケーキ",
+      "original_pointer": 83,
+      "translations": {}
+    },
+    {
+      "original_japanese": "④商品完成図",
+      "original_pointer": 98,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑤メンテナンス",
+      "original_pointer": 111,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全12ページ",
+      "original_pointer": 126,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全10ページ",
+      "original_pointer": 137,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全8ページ",
+      "original_pointer": 148,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全3ページ",
+      "original_pointer": 158,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全4ページ",
+      "original_pointer": 168,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全2ページ",
+      "original_pointer": 178,
+      "translations": {}
+    }
+  ]
+}

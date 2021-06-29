@@ -1,0 +1,95 @@
+{
+  "name": "soc_tp05",
+  "strings": [
+    {
+      "original_japanese": "準備",
+      "original_pointer": 38,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①10:1パティ(2プラテン)",
+      "original_pointer": 43,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②10:1パティ(3プラテン)",
+      "original_pointer": 67,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③4:1パティ(2プラテン)",
+      "original_pointer": 91,
+      "translations": {}
+    },
+    {
+      "original_japanese": "④4:1パティ(3プラテン)",
+      "original_pointer": 114,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑤バッチクッキング",
+      "original_pointer": 137,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑥てりやきパティ(2プラテン)",
+      "original_pointer": 156,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑦てりやきパティ(3プラテン)",
+      "original_pointer": 184,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑧メンテナンス",
+      "original_pointer": 212,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全7ページ",
+      "original_pointer": 227,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全12ページ",
+      "original_pointer": 237,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全13ページ",
+      "original_pointer": 248,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全13ページ",
+      "original_pointer": 259,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全12ページ",
+      "original_pointer": 270,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全10ページ",
+      "original_pointer": 281,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全8ページ",
+      "original_pointer": 292,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全8ページ",
+      "original_pointer": 302,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全11ページ",
+      "original_pointer": 312,
+      "translations": {}
+    }
+  ]
+}

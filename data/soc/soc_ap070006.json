@@ -1,0 +1,20 @@
+{
+  "name": "soc_ap070006",
+  "strings": [
+    {
+      "original_japanese": "■イニシエーターはラップまたはBOXの\n　　上にグリルシールを貼ってアッセン\n　　ブラーに知らせる",
+      "original_pointer": 8,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■プレップテーブルに準備されたラップ\n　　とバンズを見て、アッセンブラーはサ\n　　ンドイッチの種類を確認できる",
+      "original_pointer": 102,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■アッセンブラーはUHCストックレベル\n　　が低くなったことを、フライ・グリルエリ\n　　アのクルーに伝えなければならない",
+      "original_pointer": 211,
+      "translations": {}
+    }
+  ]
+}

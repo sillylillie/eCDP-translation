@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap030005",
+  "strings": [
+    {
+      "original_japanese": "■卵を割ったら殻はすぐにエッグクッカ\n　　ーサイドのパンに捨て、絶対に卵の入っ\n　　ていたトレーには戻さない",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■割った卵の殻に残っていた生卵が割っ\n　　ていない卵に付着すると、二次汚染が\n　　起こる可能性がある",
+      "original_pointer": 113,
+      "translations": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap030305",
+  "strings": [
+    {
+      "original_japanese": "■大型Q-ing容器からグリドルケーキを\n　　取り出す際は、Q-ingバンズライナーが\n　　グリドルケーキにつかないようにTLC\n　　で取り扱う",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■Q-ingバンズライナーは破れたら交換\n　　する",
+      "original_pointer": 135,
+      "translations": {}
+    }
+  ]
+}

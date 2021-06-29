@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap030301",
+  "strings": [
+    {
+      "original_japanese": "■マックグリドルにアッセンブルできる\n　　ようになるまでは、Q-ingの後、8分間\n　　のクーリングタイムが必要\n■マックグリドルのプレQ-ingは、大型\n　　Q-ing容器に最大3食分(6個)まで",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■必要に応じてブレックファーストの時\n　　間帯に追加のランのプレQ-ingを行う\n■クォリティを維持するため、フルランサ\n　　イズを超えた数のQ-ingはしない",
+      "original_pointer": 181,
+      "translations": {}
+    }
+  ]
+}

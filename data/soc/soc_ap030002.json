@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap030002",
+  "strings": [
+    {
+      "original_japanese": "■エクイップメントの温度設定が正しく\n　　ないと、プロダクトが加熱しすぎたり、\n　　加熱不足になったりする\n■各エクイップメントの温度設定は、と\n　　ても重要",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

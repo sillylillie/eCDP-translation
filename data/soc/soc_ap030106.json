@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap030106",
+  "strings": [
+    {
+      "original_japanese": "■ぬるま湯を使用し適正な量を入れな\n　　いと、十分な蒸気が発生しないため、\n　　調理したエッグのクォリティが落ちる",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

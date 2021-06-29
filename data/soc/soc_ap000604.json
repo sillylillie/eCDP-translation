@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap000604",
+  "strings": [
+    {
+      "original_japanese": "■バスケットを横に傾けて、バギングト\n　　レーに移す\n■古いものと新しいものを一緒にしない",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■必要に応じてトングを使ってバスケッ\n　　トから取り出す\n■空のバスケットはバットの上にかけて\n　　残ったオイルをバットに落とし、床など\n　　にこぼさないようにする",
+      "original_pointer": 95,
+      "translations": {}
+    }
+  ]
+}

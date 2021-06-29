@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap000304",
+  "strings": [
+    {
+      "original_japanese": "■ポテトを振ることで、ポテトどうしが\n　　くっつくのを防ぎ、ポテトをむらなく\n　　フライすることができる",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■バギングトレーに入っているフライ済\n　　みのポテトを、バギングスクープの平\n　　らな面を使ってフライリボン側へ寄せ\n　　ておく",
+      "original_pointer": 109,
+      "translations": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap000600",
+  "strings": [
+    {
+      "original_japanese": "■ハッシュポテトの粉がオイルに飛ばな\n　　いように、オイルから離れた場所でバ\n　　スケッティングする",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■バスケットにワイヤーガードをかける\n■バスケットに入れられる枚数は最大\n　　8枚、1スロットに1枚づつ",
+      "original_pointer": 105,
+      "translations": {}
+    }
+  ]
+}

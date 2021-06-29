@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap010400",
+  "strings": [
+    {
+      "original_japanese": "■日中は頻繁にプレイエリアを点検する\n■フードの食べこぼし、ゴミ、エリア全体\n　　のクレンリネスを確認する",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

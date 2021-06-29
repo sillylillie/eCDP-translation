@@ -1,0 +1,25 @@
+{
+  "name": "soc_ap070003",
+  "strings": [
+    {
+      "original_japanese": "■注文がKVSに表示されたら、すぐにバ\n　　ンズをトースター、スチーマーに入れ、\n　　正しいラップ、BOXを用意する",
+      "original_pointer": 10,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■トーストされたバンズをラップ、BOX\n　　に置き、アッセンブラーに引き継ぎ、\n　　KVSモニター表示をバンプする\n　　(クリア・消す)",
+      "original_pointer": 119,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■イニシエーターのみの場合はアッセン\n　　ブルを続けて行い、商品がHLZに置か\n　　れるまで次のバンズをトーストしては\n　　ならない",
+      "original_pointer": 245,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■1人がアッセンブルできるアイテムは\n　　2個まで\n■イニシエーターはアッセンブルライン\n　　の状態を見ながらトーストする",
+      "original_pointer": 372,
+      "translations": {}
+    }
+  ]
+}

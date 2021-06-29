@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap060501",
+  "strings": [
+    {
+      "original_japanese": "■補充のためにアッセンブル作業が止\n　　まらないように、十分な量の原材料と\n　　パッケージをステーションに準備する",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

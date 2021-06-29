@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap000405",
+  "strings": [
+    {
+      "original_japanese": "■バスケットを引き上げたら、5〜10秒間\n　　オイルを切り、HTタイマーを押す\n■バギングトレーに移し、塩を振って混\n　　ぜたあと、バッグまたはボックスに入\n　　れる",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■ピーク時間帯が終わるまで、このサイ\n　　クルを繰り返す",
+      "original_pointer": 164,
+      "translations": {}
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "soc_ap090416",
+  "strings": [
+    {
+      "original_japanese": "■ハッシュポテトやマックフライポテトを\n　　コールドドリンクやマックシェイクと\n　　くっつけて置いてはならない",
+      "original_pointer": 8,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■ウェイトカードを置くときは、ポテトに\n　　直接触れないよう注意する。ウェイト\n　　カードは常日頃チェックし、きれいなも\n　　のを使用する",
+      "original_pointer": 117,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■コンディメントは入れ忘れのないよう、\n　　一番最初に取り揃える\n■プロモーション時、プレミアムを渡し\n　　忘れないよう、取り揃える",
+      "original_pointer": 253,
+      "translations": {}
+    }
+  ]
+}

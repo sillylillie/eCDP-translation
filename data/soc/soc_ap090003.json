@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap090003",
+  "strings": [
+    {
+      "original_japanese": "■あなたがあいさつしてからオーダーを\n　　完了するまで、お客様が90秒以上待つ\n　　ことがあってはならない",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

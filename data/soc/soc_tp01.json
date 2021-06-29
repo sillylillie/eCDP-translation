@@ -1,0 +1,55 @@
+{
+  "name": "soc_tp01",
+  "strings": [
+    {
+      "original_japanese": "準備",
+      "original_pointer": 22,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①店内の清掃",
+      "original_pointer": 27,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②トイレの清掃",
+      "original_pointer": 40,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③店舗屋外の清掃",
+      "original_pointer": 55,
+      "translations": {}
+    },
+    {
+      "original_japanese": "④プレイランドの清掃",
+      "original_pointer": 72,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全2ページ",
+      "original_pointer": 93,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全8ページ",
+      "original_pointer": 103,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全6ページ",
+      "original_pointer": 113,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全6ページ",
+      "original_pointer": 123,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全3ページ",
+      "original_pointer": 133,
+      "translations": {}
+    }
+  ]
+}

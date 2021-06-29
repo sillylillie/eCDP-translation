@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap000001",
+  "strings": [
+    {
+      "original_japanese": "注意\n■フライオイルは熱いので注意する\n■バスケットを入れる前にタイマー設定\n　　がマックフライポテトになっているか確\n　　認する",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

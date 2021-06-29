@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap100300",
+  "strings": [
+    {
+      "original_japanese": "■ドリンクの用意をするようにランナー\n　　に声をかける\n■ドリンクをアッセンブルテーブルに置\n　　く",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

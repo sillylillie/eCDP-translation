@@ -1,0 +1,30 @@
+{
+  "name": "soc_ap070102",
+  "strings": [
+    {
+      "original_japanese": "2時間\n　　スライスレタス\n　　スライスチーズ\n　　乾燥オニオン\n　　スライスオニオン",
+      "original_pointer": 12,
+      "translations": {}
+    },
+    {
+      "original_japanese": "3時間\n　　スライスベーコン\n　　てりやきソース",
+      "original_pointer": 94,
+      "translations": {}
+    },
+    {
+      "original_japanese": "2営業日\n　　タルタルソース\n　　ビッグマックソース",
+      "original_pointer": 140,
+      "translations": {}
+    },
+    {
+      "original_japanese": "3営業日\n　　スイートレモンソース\n　　シーザーサラダソース\n　　サウザンフィリング",
+      "original_pointer": 190,
+      "translations": {}
+    },
+    {
+      "original_japanese": "7日\n　　マスタード\n　　ケチャップ\n　　ピクルス",
+      "original_pointer": 271,
+      "translations": {}
+    }
+  ]
+}

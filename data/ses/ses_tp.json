@@ -1,0 +1,90 @@
+{
+  "name": "ses_tp",
+  "strings": [
+    {
+      "original_japanese": "マックフライポテト",
+      "original_pointer": 36,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ハッシュポテト",
+      "original_pointer": 55,
+      "translations": {}
+    },
+    {
+      "original_japanese": "エッグ",
+      "original_pointer": 70,
+      "translations": {}
+    },
+    {
+      "original_japanese": "イングリッシュマフィン",
+      "original_pointer": 77,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ソーセージパティ",
+      "original_pointer": 100,
+      "translations": {}
+    },
+    {
+      "original_japanese": "カナディアンベーコン",
+      "original_pointer": 117,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ミートパティ／80パティ",
+      "original_pointer": 138,
+      "translations": {}
+    },
+    {
+      "original_japanese": "てりやきパティ",
+      "original_pointer": 161,
+      "translations": {}
+    },
+    {
+      "original_japanese": "エッグマフィン",
+      "original_pointer": 176,
+      "translations": {}
+    },
+    {
+      "original_japanese": "チーズバーガー",
+      "original_pointer": 191,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ビッグマック",
+      "original_pointer": 206,
+      "translations": {}
+    },
+    {
+      "original_japanese": "てりやきバーガー",
+      "original_pointer": 219,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フィレオフィッシュ",
+      "original_pointer": 236,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フィッシュポーション",
+      "original_pointer": 255,
+      "translations": {}
+    },
+    {
+      "original_japanese": "カウンター6ステップ",
+      "original_pointer": 276,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ドライブスルー",
+      "original_pointer": 296,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ロット＆ロビー",
+      "original_pointer": 311,
+      "translations": {}
+    }
+  ]
+}

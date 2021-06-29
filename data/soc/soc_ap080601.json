@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap080601",
+  "strings": [
+    {
+      "original_japanese": "■オイルは6つの敵によって、寿命が短\n　　くなる\n■オイルの劣化はクォリティにも影響す\n　　る",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "name": "sec_dp07",
+  "strings": [
+    {
+      "original_japanese": "ＫＶＳのオーダーに対応するのは\n誰の役割か？",
+      "original_pointer": 102,
+      "translations": {}
+    },
+    {
+      "original_japanese": "イニシエーター",
+      "original_pointer": 146,
+      "translations": {}
+    },
+    {
+      "original_japanese": "アッセンブル",
+      "original_pointer": 161,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ストッカー",
+      "original_pointer": 174,
+      "translations": {}
+    },
+    {
+      "original_japanese": "マネージャー",
+      "original_pointer": 185,
+      "translations": {}
+    },
+    {
+      "original_japanese": "特別な注文のときに\nラップやボックスに貼るものは\nどれか？",
+      "original_pointer": 198,
+      "translations": {}
+    },
+    {
+      "original_japanese": "グリルシール",
+      "original_pointer": 255,
+      "translations": {}
+    },
+    {
+      "original_japanese": "テンパリングシール",
+      "original_pointer": 268,
+      "translations": {}
+    },
+    {
+      "original_japanese": "曜日シール",
+      "original_pointer": 287,
+      "translations": {}
+    },
+    {
+      "original_japanese": "レシート",
+      "original_pointer": 298,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ＵＨＣストックレベルが\n減ったことを、\nアッセンブラーが伝えるべき\n相手は誰か？",
+      "original_pointer": 307,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ストッカー",
+      "original_pointer": 385,
+      "translations": {}
+    },
+    {
+      "original_japanese": "スター",
+      "original_pointer": 396,
+      "translations": {}
+    },
+    {
+      "original_japanese": "シンクパーソン",
+      "original_pointer": 403,
+      "translations": {}
+    },
+    {
+      "original_japanese": "搬入クルー",
+      "original_pointer": 418,
+      "translations": {}
+    },
+    {
+      "original_japanese": "タルタルソースの\nセカンダリーシェルフライフで\n正しいものは？",
+      "original_pointer": 429,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２営業日",
+      "original_pointer": 490,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２時間",
+      "original_pointer": 499,
+      "translations": {}
+    },
+    {
+      "original_japanese": "当日中",
+      "original_pointer": 506,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３営業日",
+      "original_pointer": 513,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ソースのテンパリングで\n正しくないものはどれか？",
+      "original_pointer": 522,
+      "translations": {}
+    },
+    {
+      "original_japanese": "冷蔵庫で保管する",
+      "original_pointer": 570,
+      "translations": {}
+    },
+    {
+      "original_japanese": "室温で保管する",
+      "original_pointer": 587,
+      "translations": {}
+    },
+    {
+      "original_japanese": "曜日シールを貼る",
+      "original_pointer": 602,
+      "translations": {}
+    },
+    {
+      "original_japanese": "通気をよくする",
+      "original_pointer": 619,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ソーセージパティのＵＨＣでの\nホールディングタイムは？",
+      "original_pointer": 634,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６０分",
+      "original_pointer": 688,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１５分",
+      "original_pointer": 695,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２０分",
+      "original_pointer": 702,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３０分",
+      "original_pointer": 709,
+      "translations": {}
+    },
+    {
+      "original_japanese": "フィッシュポーションのＵＨＣでの\nホールディングタイムは？",
+      "original_pointer": 716,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３０分",
+      "original_pointer": 774,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６０分",
+      "original_pointer": 781,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１５分",
+      "original_pointer": 788,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２０分",
+      "original_pointer": 795,
+      "translations": {}
+    },
+    {
+      "original_japanese": "卵の黄身をツイストするときに\n使うヘラを何というか？",
+      "original_pointer": 802,
+      "translations": {}
+    },
+    {
+      "original_japanese": "イエローハツラースパチュラ",
+      "original_pointer": 854,
+      "translations": {}
+    },
+    {
+      "original_japanese": "グレーハツラースパチュラ",
+      "original_pointer": 881,
+      "translations": {}
+    },
+    {
+      "original_japanese": "エッグトング",
+      "original_pointer": 906,
+      "translations": {}
+    },
+    {
+      "original_japanese": "スクレーパー",
+      "original_pointer": 919,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ホールディングタイムが過ぎた\n原材料はどうするべきか？",
+      "original_pointer": 932,
+      "translations": {}
+    },
+    {
+      "original_japanese": "すぐにウエストする",
+      "original_pointer": 986,
+      "translations": {}
+    },
+    {
+      "original_japanese": "そのまま使用する",
+      "original_pointer": 1005,
+      "translations": {}
+    },
+    {
+      "original_japanese": "次のオーダーにだけ使う",
+      "original_pointer": 1022,
+      "translations": {}
+    },
+    {
+      "original_japanese": "常温保管する",
+      "original_pointer": 1045,
+      "translations": {}
+    },
+    {
+      "original_japanese": "エッグをＵＨＣで保管するときの\nスロットの設定温度は？",
+      "original_pointer": 1058,
+      "translations": {}
+    },
+    {
+      "original_japanese": "７９℃",
+      "original_pointer": 1112,
+      "translations": {}
+    },
+    {
+      "original_japanese": "８５℃",
+      "original_pointer": 1119,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９３℃",
+      "original_pointer": 1126,
+      "translations": {}
+    },
+    {
+      "original_japanese": "常温保管",
+      "original_pointer": 1133,
+      "translations": {}
+    }
+  ]
+}

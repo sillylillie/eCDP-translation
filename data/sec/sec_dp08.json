@@ -1,0 +1,255 @@
+{
+  "name": "sec_dp08",
+  "strings": [
+    {
+      "original_japanese": "１オーダーのプレップタイムは\n何秒か？",
+      "original_pointer": 102,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３５〜５０秒",
+      "original_pointer": 140,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６０秒以内",
+      "original_pointer": 153,
+      "translations": {}
+    },
+    {
+      "original_japanese": "５０秒以上",
+      "original_pointer": 164,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６０〜９０秒",
+      "original_pointer": 175,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１人でアッセンブルできる\nアイテムは何個までか？",
+      "original_pointer": 188,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２個まで",
+      "original_pointer": 236,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３個まで",
+      "original_pointer": 245,
+      "translations": {}
+    },
+    {
+      "original_japanese": "４個まで",
+      "original_pointer": 254,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１個まで",
+      "original_pointer": 263,
+      "translations": {}
+    },
+    {
+      "original_japanese": "サンドイッチに対して、\nお客様が期待していないものは\nどれか？",
+      "original_pointer": 272,
+      "translations": {}
+    },
+    {
+      "original_japanese": "乾燥している",
+      "original_pointer": 333,
+      "translations": {}
+    },
+    {
+      "original_japanese": "温かい",
+      "original_pointer": 346,
+      "translations": {}
+    },
+    {
+      "original_japanese": "安全",
+      "original_pointer": 353,
+      "translations": {}
+    },
+    {
+      "original_japanese": "新鮮",
+      "original_pointer": 358,
+      "translations": {}
+    },
+    {
+      "original_japanese": "サンドイッチのオペレーションで\n重要でないものはどれか？",
+      "original_pointer": 363,
+      "translations": {}
+    },
+    {
+      "original_japanese": "強引さ",
+      "original_pointer": 419,
+      "translations": {}
+    },
+    {
+      "original_japanese": "スピード",
+      "original_pointer": 426,
+      "translations": {}
+    },
+    {
+      "original_japanese": "美しさ",
+      "original_pointer": 435,
+      "translations": {}
+    },
+    {
+      "original_japanese": "丁寧さ",
+      "original_pointer": 442,
+      "translations": {}
+    },
+    {
+      "original_japanese": "イニシエーターがバンズを\nトースターに入れた後の作業は\n何か？",
+      "original_pointer": 449,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ラップやボックスの用意",
+      "original_pointer": 510,
+      "translations": {}
+    },
+    {
+      "original_japanese": "次のバンズをすぐに投入",
+      "original_pointer": 533,
+      "translations": {}
+    },
+    {
+      "original_japanese": "クレンリネス",
+      "original_pointer": 556,
+      "translations": {}
+    },
+    {
+      "original_japanese": "バンプキーを押す",
+      "original_pointer": 569,
+      "translations": {}
+    },
+    {
+      "original_japanese": "次の [　　　　] に入る\n言葉を選んでください\n\n『プレップテーブルは\n常に [　　　　] に保つ』",
+      "original_pointer": 586,
+      "translations": {}
+    },
+    {
+      "original_japanese": "清潔",
+      "original_pointer": 677,
+      "translations": {}
+    },
+    {
+      "original_japanese": "頑丈",
+      "original_pointer": 682,
+      "translations": {}
+    },
+    {
+      "original_japanese": "健康",
+      "original_pointer": 687,
+      "translations": {}
+    },
+    {
+      "original_japanese": "強力",
+      "original_pointer": 692,
+      "translations": {}
+    },
+    {
+      "original_japanese": "各ポジションの役割で\n大切なことはどれか？",
+      "original_pointer": 697,
+      "translations": {}
+    },
+    {
+      "original_japanese": "勝手に持ち場を離れない",
+      "original_pointer": 739,
+      "translations": {}
+    },
+    {
+      "original_japanese": "勝手に休憩してもよい",
+      "original_pointer": 762,
+      "translations": {}
+    },
+    {
+      "original_japanese": "丁寧さは必要ない",
+      "original_pointer": 783,
+      "translations": {}
+    },
+    {
+      "original_japanese": "スピードだけあればよい",
+      "original_pointer": 800,
+      "translations": {}
+    },
+    {
+      "original_japanese": "原材料を\n保管する\nこの機械を\n何というか？",
+      "original_pointer": 823,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ＵＨＣ",
+      "original_pointer": 865,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ストッカー",
+      "original_pointer": 872,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ＫＶＳ",
+      "original_pointer": 883,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ＰＯＳ",
+      "original_pointer": 890,
+      "translations": {}
+    },
+    {
+      "original_japanese": "プレップテーブルでのレタスの\nセカンダリーシェルフライフは？",
+      "original_pointer": 897,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２時間",
+      "original_pointer": 957,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３０分",
+      "original_pointer": 964,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６０分",
+      "original_pointer": 971,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９０分",
+      "original_pointer": 978,
+      "translations": {}
+    },
+    {
+      "original_japanese": "10:1パティのＵＨＣでの\nホールディングタイムは？",
+      "original_pointer": 985,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１５分",
+      "original_pointer": 1033,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２０分",
+      "original_pointer": 1040,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２５分",
+      "original_pointer": 1047,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１０分",
+      "original_pointer": 1054,
+      "translations": {}
+    }
+  ]
+}

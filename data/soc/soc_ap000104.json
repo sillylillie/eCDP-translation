@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap000104",
+  "strings": [
+    {
+      "original_japanese": "■調理されたポテトがバスケットに残っ\n　　ていたら取り除く\n■ワイヤーのゆるみや破損があるバスケ\n　　ットは使用しない",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

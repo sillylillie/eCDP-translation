@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap050807",
+  "strings": [
+    {
+      "original_japanese": "■プロダクトがシートにこびりついた\n　　とき\n■シートの調理部分に破れがあるとき\n■黒、茶のコーティングが減っている\n　　とき",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■リリースシートにカーボンがたまると、\n　　加熱不足、パティの外見、調理、味に問\n　　題を起こす原因になる",
+      "original_pointer": 129,
+      "translations": {}
+    }
+  ]
+}

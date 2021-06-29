@@ -1,0 +1,10 @@
+{
+  "name": "soc_ap050804",
+  "strings": [
+    {
+      "original_japanese": "■オープン\n■ランチタイムの前\n■ランチタイムの後\n■ディナータイムの前\n■ディナータイムの後",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}

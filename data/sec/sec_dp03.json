@@ -1,0 +1,255 @@
+{
+  "name": "sec_dp03",
+  "strings": [
+    {
+      "original_japanese": "食中毒予防の３原則は、\n「つけない」「殺してしまう」\nと、あと１つは？",
+      "original_pointer": 102,
+      "translations": {}
+    },
+    {
+      "original_japanese": "増やさない",
+      "original_pointer": 171,
+      "translations": {}
+    },
+    {
+      "original_japanese": "見つけない",
+      "original_pointer": 182,
+      "translations": {}
+    },
+    {
+      "original_japanese": "報告する",
+      "original_pointer": 193,
+      "translations": {}
+    },
+    {
+      "original_japanese": "触らない",
+      "original_pointer": 202,
+      "translations": {}
+    },
+    {
+      "original_japanese": "冷凍品は何℃以下で保管\nしなければならないか？",
+      "original_pointer": 211,
+      "translations": {}
+    },
+    {
+      "original_japanese": "−１８℃以下",
+      "original_pointer": 257,
+      "translations": {}
+    },
+    {
+      "original_japanese": "−１５℃以下",
+      "original_pointer": 270,
+      "translations": {}
+    },
+    {
+      "original_japanese": "−１０℃以下",
+      "original_pointer": 283,
+      "translations": {}
+    },
+    {
+      "original_japanese": "０℃以下",
+      "original_pointer": 296,
+      "translations": {}
+    },
+    {
+      "original_japanese": "焼成後10:1パティの\n内部温度は、何℃以上で\nなければならないか？",
+      "original_pointer": 305,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６９℃以上",
+      "original_pointer": 368,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６８℃以上",
+      "original_pointer": 379,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６０℃以上",
+      "original_pointer": 390,
+      "translations": {}
+    },
+    {
+      "original_japanese": "７４℃以上",
+      "original_pointer": 401,
+      "translations": {}
+    },
+    {
+      "original_japanese": "冷蔵品は何℃以下で保管\nしなければならないか？",
+      "original_pointer": 412,
+      "translations": {}
+    },
+    {
+      "original_japanese": "４℃以下",
+      "original_pointer": 458,
+      "translations": {}
+    },
+    {
+      "original_japanese": "５℃以下",
+      "original_pointer": 467,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１０℃以下",
+      "original_pointer": 476,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６℃以下",
+      "original_pointer": 487,
+      "translations": {}
+    },
+    {
+      "original_japanese": "クロスコンタミネーションとは？",
+      "original_pointer": 496,
+      "translations": {}
+    },
+    {
+      "original_japanese": "二次汚染",
+      "original_pointer": 527,
+      "translations": {}
+    },
+    {
+      "original_japanese": "原材料の搬入順序",
+      "original_pointer": 536,
+      "translations": {}
+    },
+    {
+      "original_japanese": "不正を告発すること",
+      "original_pointer": 553,
+      "translations": {}
+    },
+    {
+      "original_japanese": "機器の調整のこと",
+      "original_pointer": 572,
+      "translations": {}
+    },
+    {
+      "original_japanese": "基本的な衛生対策でないものは\nどれか？",
+      "original_pointer": 589,
+      "translations": {}
+    },
+    {
+      "original_japanese": "遅刻するときは連絡する",
+      "original_pointer": 627,
+      "translations": {}
+    },
+    {
+      "original_japanese": "病気のときは連絡する",
+      "original_pointer": 650,
+      "translations": {}
+    },
+    {
+      "original_japanese": "爪は切っておく",
+      "original_pointer": 671,
+      "translations": {}
+    },
+    {
+      "original_japanese": "長い髪はまとめる",
+      "original_pointer": 686,
+      "translations": {}
+    },
+    {
+      "original_japanese": "食品は床から何ｃｍ以上離して\n保管するか？",
+      "original_pointer": 703,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１５ｃｍ以上",
+      "original_pointer": 745,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１０ｃｍ以上",
+      "original_pointer": 758,
+      "translations": {}
+    },
+    {
+      "original_japanese": "５ｃｍ以上",
+      "original_pointer": 771,
+      "translations": {}
+    },
+    {
+      "original_japanese": "離さなくてもよい",
+      "original_pointer": 782,
+      "translations": {}
+    },
+    {
+      "original_japanese": "食品の安全が損なわれる\n原因はどれか？",
+      "original_pointer": 799,
+      "translations": {}
+    },
+    {
+      "original_japanese": "表示項目すべて",
+      "original_pointer": 837,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ウイルス",
+      "original_pointer": 852,
+      "translations": {}
+    },
+    {
+      "original_japanese": "金属片の混入",
+      "original_pointer": 861,
+      "translations": {}
+    },
+    {
+      "original_japanese": "化学薬品の誤使用",
+      "original_pointer": 874,
+      "translations": {}
+    },
+    {
+      "original_japanese": "正しい手洗いでないものは\nどれか？",
+      "original_pointer": 891,
+      "translations": {}
+    },
+    {
+      "original_japanese": "腕を組んでこする",
+      "original_pointer": 925,
+      "translations": {}
+    },
+    {
+      "original_japanese": "指を組んでこする",
+      "original_pointer": 942,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ひじまでこする",
+      "original_pointer": 959,
+      "translations": {}
+    },
+    {
+      "original_japanese": "爪先をこする",
+      "original_pointer": 974,
+      "translations": {}
+    },
+    {
+      "original_japanese": "二次汚染防止のために\n必要でないことはどれか？",
+      "original_pointer": 987,
+      "translations": {}
+    },
+    {
+      "original_japanese": "スケジュールを確認する",
+      "original_pointer": 1033,
+      "translations": {}
+    },
+    {
+      "original_japanese": "手洗いをする",
+      "original_pointer": 1056,
+      "translations": {}
+    },
+    {
+      "original_japanese": "抗菌ウェットワイパーを使う",
+      "original_pointer": 1069,
+      "translations": {}
+    },
+    {
+      "original_japanese": "爪を切っておく",
+      "original_pointer": 1096,
+      "translations": {}
+    }
+  ]
+}

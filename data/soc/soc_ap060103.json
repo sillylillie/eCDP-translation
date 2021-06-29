@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap060103",
+  "strings": [
+    {
+      "original_japanese": "■テンパリングが正しく行われていない\n　　と、サンドイッチが冷めてしまう\n■それぞれのソースボトルに曜日シール\n　　を貼る",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■通気を良くするため、間を空ける\n■プレップテーブル下の専用保管庫に\n　　置く",
+      "original_pointer": 126,
+      "translations": {}
+    }
+  ]
+}

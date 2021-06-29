@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap080008",
+  "strings": [
+    {
+      "original_japanese": "■1日を通して、常にフライヤーのオイルレ\n　　ベルを確認し、必要に応じて規定レベ\n　　ルまでオイルを補充する",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■オイルは適正レベルを保つ\n　　詳細は、「フライプロダクト⑥メンテナ\n　　ンス」を参照のこと",
+      "original_pointer": 112,
+      "translations": {}
+    }
+  ]
+}

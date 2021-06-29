@@ -1,0 +1,20 @@
+{
+  "name": "soc_ap100504",
+  "strings": [
+    {
+      "original_japanese": "■5,000円を超える高額紙幣は、マネー\n　　ジャーに確認してもらう\n　　（高額紙幣の取り扱いに関しては、店舗\n　　のルールに従う）",
+      "original_pointer": 8,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■経験豊富なクルーに、クーポン券、マッ\n　　クカード、ギフトカードのPOSへの入力\n　　方法を教えてもらう",
+      "original_pointer": 133,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■競合他社の類似クーポンも、マクドナ\n　　ルドのクーポンと同じように扱う。\n　　必要な場合は、どの商品に適用するか、\n　　マネージャーに尋ねる",
+      "original_pointer": 235,
+      "translations": {}
+    }
+  ]
+}

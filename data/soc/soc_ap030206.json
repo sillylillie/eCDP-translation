@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap030206",
+  "strings": [
+    {
+      "original_japanese": "■トースターのブザーが鳴ったら、レバー\n　　を押しタイマーを止める",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■スパチュラをトースターに差し込んで、\n　　マフィンをリムーブする\n■2つに割ったマフィンがすべて揃って\n　　いるか確認する",
+      "original_pointer": 72,
+      "translations": {}
+    }
+  ]
+}

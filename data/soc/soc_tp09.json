@@ -1,0 +1,135 @@
+{
+  "name": "soc_tp09",
+  "strings": [
+    {
+      "original_japanese": "準備",
+      "original_pointer": 54,
+      "translations": {}
+    },
+    {
+      "original_japanese": "①あいさつ",
+      "original_pointer": 59,
+      "translations": {}
+    },
+    {
+      "original_japanese": "②注文の承り",
+      "original_pointer": 70,
+      "translations": {}
+    },
+    {
+      "original_japanese": "③代金の授受",
+      "original_pointer": 83,
+      "translations": {}
+    },
+    {
+      "original_japanese": "④注文品の取り揃え",
+      "original_pointer": 96,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑤注文品の手渡し",
+      "original_pointer": 115,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑥感謝のあいさつ",
+      "original_pointer": 132,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑦コールドデザートの概要",
+      "original_pointer": 149,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑧マックシェイク",
+      "original_pointer": 174,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑨ソフトツイスト",
+      "original_pointer": 191,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑩サンデー",
+      "original_pointer": 208,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑪マックフルーリー",
+      "original_pointer": 219,
+      "translations": {}
+    },
+    {
+      "original_japanese": "⑫メンテナンス",
+      "original_pointer": 238,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全6ページ",
+      "original_pointer": 253,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全3ページ",
+      "original_pointer": 263,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全5ページ",
+      "original_pointer": 273,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全5ページ",
+      "original_pointer": 283,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全17ページ",
+      "original_pointer": 293,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全3ページ",
+      "original_pointer": 304,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全1ページ",
+      "original_pointer": 314,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全5ページ",
+      "original_pointer": 324,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全6ページ",
+      "original_pointer": 334,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全8ページ",
+      "original_pointer": 344,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全6ページ",
+      "original_pointer": 354,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全8ページ",
+      "original_pointer": 364,
+      "translations": {}
+    },
+    {
+      "original_japanese": "全7ページ",
+      "original_pointer": 374,
+      "translations": {}
+    }
+  ]
+}

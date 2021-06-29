@@ -1,0 +1,255 @@
+{
+  "name": "sec_dp05",
+  "strings": [
+    {
+      "original_japanese": "ソーセージパティの焼成時、\nプラテンスイッチを押した後、\n何で手を拭くか？",
+      "original_pointer": 102,
+      "translations": {}
+    },
+    {
+      "original_japanese": "抗菌ウェットワイパー",
+      "original_pointer": 175,
+      "translations": {}
+    },
+    {
+      "original_japanese": "カウンタークロス",
+      "original_pointer": 196,
+      "translations": {}
+    },
+    {
+      "original_japanese": "グリルクロス",
+      "original_pointer": 213,
+      "translations": {}
+    },
+    {
+      "original_japanese": "タウパー",
+      "original_pointer": 226,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１ランで焼成できる\nソーセージパティの\n最大枚数は？",
+      "original_pointer": 235,
+      "translations": {}
+    },
+    {
+      "original_japanese": "８枚",
+      "original_pointer": 286,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６枚",
+      "original_pointer": 291,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９枚",
+      "original_pointer": 296,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１２枚",
+      "original_pointer": 301,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ソーセージパティの\n最大ホールディングタイムは？",
+      "original_pointer": 308,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６０分",
+      "original_pointer": 356,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１５分",
+      "original_pointer": 363,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２０分",
+      "original_pointer": 370,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３０分",
+      "original_pointer": 377,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ソーセージパティは\nＵＨＣに何枚まで重ねられるか？",
+      "original_pointer": 384,
+      "translations": {}
+    },
+    {
+      "original_japanese": "４枚",
+      "original_pointer": 434,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３枚",
+      "original_pointer": 439,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６枚",
+      "original_pointer": 444,
+      "translations": {}
+    },
+    {
+      "original_japanese": "８枚",
+      "original_pointer": 449,
+      "translations": {}
+    },
+    {
+      "original_japanese": "カナディアンベーコンを\nエッグクッカーで焼成する際、\n片面を焼成する目安の時間は？",
+      "original_pointer": 454,
+      "translations": {}
+    },
+    {
+      "original_japanese": "４秒",
+      "original_pointer": 535,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３秒",
+      "original_pointer": 540,
+      "translations": {}
+    },
+    {
+      "original_japanese": "５秒",
+      "original_pointer": 545,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６秒",
+      "original_pointer": 550,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１ランで焼成できる\nカナディアンベーコンの\n最大枚数は？",
+      "original_pointer": 555,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６枚",
+      "original_pointer": 610,
+      "translations": {}
+    },
+    {
+      "original_japanese": "４枚",
+      "original_pointer": 615,
+      "translations": {}
+    },
+    {
+      "original_japanese": "８枚",
+      "original_pointer": 620,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９枚",
+      "original_pointer": 625,
+      "translations": {}
+    },
+    {
+      "original_japanese": "カナディアンベーコンの\n最大ホールディングタイムは？",
+      "original_pointer": 630,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３０分",
+      "original_pointer": 682,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２０分",
+      "original_pointer": 689,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１５分",
+      "original_pointer": 696,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６０分",
+      "original_pointer": 703,
+      "translations": {}
+    },
+    {
+      "original_japanese": "次の [　　　　] に入る\n言葉を選んでください\n\n『資材のストックは\n [　　　　] のルールに従う』",
+      "original_pointer": 710,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２４／２",
+      "original_pointer": 803,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２／２４",
+      "original_pointer": 812,
+      "translations": {}
+    },
+    {
+      "original_japanese": "テイクアウト",
+      "original_pointer": 821,
+      "translations": {}
+    },
+    {
+      "original_japanese": "クレンリネス",
+      "original_pointer": 834,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ソーセージパティを\nＵＨＣで保管するときの\nスロットの設定温度は？",
+      "original_pointer": 847,
+      "translations": {}
+    },
+    {
+      "original_japanese": "７９℃",
+      "original_pointer": 912,
+      "translations": {}
+    },
+    {
+      "original_japanese": "８５℃",
+      "original_pointer": 919,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９３℃",
+      "original_pointer": 926,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６０℃",
+      "original_pointer": 933,
+      "translations": {}
+    },
+    {
+      "original_japanese": "スパチュラとスクレーパーの\n確認は営業中に何回行うか？",
+      "original_pointer": 940,
+      "translations": {}
+    },
+    {
+      "original_japanese": "５回",
+      "original_pointer": 994,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２回",
+      "original_pointer": 999,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３回",
+      "original_pointer": 1004,
+      "translations": {}
+    },
+    {
+      "original_japanese": "４回",
+      "original_pointer": 1009,
+      "translations": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap000309",
+  "strings": [
+    {
+      "original_japanese": "■ソルトディスペンサーでトリプルアー\n　　チを描くように塩を振る\n■塩がバットに入るとオイルが劣化する\n　　ので、オイルから離して塩を振る",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■塩を振ったあとバギングスクープを使\n　　い、ポテトを折らないように丁寧にか\n　　き混ぜる",
+      "original_pointer": 142,
+      "translations": {}
+    }
+  ]
+}

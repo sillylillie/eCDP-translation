@@ -1,0 +1,255 @@
+{
+  "name": "sec_dp11",
+  "strings": [
+    {
+      "original_japanese": "お客様の車が並んでから\n商品を手渡すまでの\n時間は？",
+      "original_pointer": 102,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３分３０秒以内",
+      "original_pointer": 153,
+      "translations": {}
+    },
+    {
+      "original_japanese": "７分以内",
+      "original_pointer": 168,
+      "translations": {}
+    },
+    {
+      "original_japanese": "５分３０秒以内",
+      "original_pointer": 177,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１０分以内",
+      "original_pointer": 192,
+      "translations": {}
+    },
+    {
+      "original_japanese": "お客様の車が\nオーダーテイクポイントに\n止まってから\nあいさつするまでの時間は？",
+      "original_pointer": 203,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１０秒以内",
+      "original_pointer": 281,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１５秒以内",
+      "original_pointer": 292,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２０秒以内",
+      "original_pointer": 303,
+      "translations": {}
+    },
+    {
+      "original_japanese": "３０秒以内",
+      "original_pointer": 314,
+      "translations": {}
+    },
+    {
+      "original_japanese": "オーダーテイクで\n注意すべきことはどれか？",
+      "original_pointer": 325,
+      "translations": {}
+    },
+    {
+      "original_japanese": "お客様の話をさえぎらない",
+      "original_pointer": 367,
+      "translations": {}
+    },
+    {
+      "original_japanese": "お客様の話は聞かない",
+      "original_pointer": 392,
+      "translations": {}
+    },
+    {
+      "original_japanese": "しつこく復唱する",
+      "original_pointer": 413,
+      "translations": {}
+    },
+    {
+      "original_japanese": "声の調子は気にしない",
+      "original_pointer": 430,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ＨＬＺに最後のサンドイッチが\n置かれてから、\nバッグまたはトレーにサーブ\nされるまでの時間は？",
+      "original_pointer": 451,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１２〜１６秒",
+      "original_pointer": 543,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２５〜３０秒",
+      "original_pointer": 556,
+      "translations": {}
+    },
+    {
+      "original_japanese": "６０秒以内",
+      "original_pointer": 569,
+      "translations": {}
+    },
+    {
+      "original_japanese": "９０秒以内",
+      "original_pointer": 580,
+      "translations": {}
+    },
+    {
+      "original_japanese": "マックフライポテトを\n取り揃えるときは、\nホールディングタイムが\n何分以内であることを\n確認するか？",
+      "original_pointer": 591,
+      "translations": {}
+    },
+    {
+      "original_japanese": "７分以内",
+      "original_pointer": 688,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１０分以内",
+      "original_pointer": 697,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１５分以内",
+      "original_pointer": 708,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２０分以内",
+      "original_pointer": 719,
+      "translations": {}
+    },
+    {
+      "original_japanese": "次の [　　　　] に入る\n言葉を選んでください。\n\n『テイクアウトで\nドリンクが３個以上のときは\n [　　　　] を使う』",
+      "original_pointer": 730,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ペーパートレー",
+      "original_pointer": 842,
+      "translations": {}
+    },
+    {
+      "original_japanese": "トレーライナー",
+      "original_pointer": 857,
+      "translations": {}
+    },
+    {
+      "original_japanese": "抗菌ウェットワイパー",
+      "original_pointer": 872,
+      "translations": {}
+    },
+    {
+      "original_japanese": "パックライナー",
+      "original_pointer": 893,
+      "translations": {}
+    },
+    {
+      "original_japanese": "車がキャッシングブースに\n止まってから代金の授受が\n終了するまでの時間は？",
+      "original_pointer": 908,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１０〜１５秒",
+      "original_pointer": 981,
+      "translations": {}
+    },
+    {
+      "original_japanese": "２５〜３０秒",
+      "original_pointer": 994,
+      "translations": {}
+    },
+    {
+      "original_japanese": "１５〜３０秒",
+      "original_pointer": 1007,
+      "translations": {}
+    },
+    {
+      "original_japanese": "４５秒以内",
+      "original_pointer": 1020,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ドリンクカップに\n氷を入れるときに使うものは？",
+      "original_pointer": 1031,
+      "translations": {}
+    },
+    {
+      "original_japanese": "アイススクープ",
+      "original_pointer": 1077,
+      "translations": {}
+    },
+    {
+      "original_japanese": "手",
+      "original_pointer": 1092,
+      "translations": {}
+    },
+    {
+      "original_japanese": "トング",
+      "original_pointer": 1095,
+      "translations": {}
+    },
+    {
+      "original_japanese": "直接カップですくう",
+      "original_pointer": 1102,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ドリンクを入れたカップが\n湿気を帯びてやわらかくなって\nいるときはどうするべきか？",
+      "original_pointer": 1121,
+      "translations": {}
+    },
+    {
+      "original_japanese": "サーブしてはいけない",
+      "original_pointer": 1202,
+      "translations": {}
+    },
+    {
+      "original_japanese": "テイクアウトなら販売する",
+      "original_pointer": 1223,
+      "translations": {}
+    },
+    {
+      "original_japanese": "違うカップに入れなおす",
+      "original_pointer": 1248,
+      "translations": {}
+    },
+    {
+      "original_japanese": "氷を入れ替える",
+      "original_pointer": 1271,
+      "translations": {}
+    },
+    {
+      "original_japanese": "お客様から返品された商品の\n取り扱いで正しいものは\nどれか？",
+      "original_pointer": 1286,
+      "translations": {}
+    },
+    {
+      "original_japanese": "再利用・再販売はしない",
+      "original_pointer": 1345,
+      "translations": {}
+    },
+    {
+      "original_japanese": "再利用・再販売できる",
+      "original_pointer": 1368,
+      "translations": {}
+    },
+    {
+      "original_japanese": "返品は受けつけない",
+      "original_pointer": 1389,
+      "translations": {}
+    },
+    {
+      "original_japanese": "ＵＨＣで保管する",
+      "original_pointer": 1408,
+      "translations": {}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "soc_ap000605",
+  "strings": [
+    {
+      "original_japanese": "■ボリュームの低い時間帯は、必要に応\n　　じてパッケージングする\n■フライリボンではなく、バギングトレー\n　　に保管する",
+      "original_pointer": 6,
+      "translations": {}
+    },
+    {
+      "original_japanese": "■トングを使ってバッグを開き、ハッシュ\n　　ポテトを挿入する\n■ピーク時はパッケージングしたハッシ\n　　ュポテトを、フライリボンの前から後ろ、\n　　右から左の順に立てておく",
+      "original_pointer": 124,
+      "translations": {}
+    }
+  ]
+}

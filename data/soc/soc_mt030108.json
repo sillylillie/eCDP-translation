@@ -1,0 +1,10 @@
+{
+  "name": "soc_mt030108",
+  "strings": [
+    {
+      "original_japanese": "エッグクッカーのフタを開ける\n〜\nリムーブするまで",
+      "original_pointer": 4,
+      "translations": {}
+    }
+  ]
+}
