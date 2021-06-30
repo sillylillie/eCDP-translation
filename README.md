@@ -1,26 +1,55 @@
-# Deprecation Notice
-This is a late notice, but this repo seems to be deprecated. Please join the eCDP Discord server to discuss about translations. Also you'll be directly editing game files, so get your hex editor ready.
-
 # eCDP Translation
 This is a repo that aims to help translating McDonald Japan's eCDP training game on the Nintendo DS.
 
-# Text files
-Text files in this repo are texts found in the game's files, converted from binary to readable files using the scripts in the scripts folder.
+# Json files
+Json files in this repo are strings found in the game's files, converted from binary to utf-8 using the scripts in the scripts folder.
 
-One text file may contain multiple pieces of text; they are separated by `===#===`.
+One file may contain multiple pieces of text. Here is an example of the json structure: 
+
+```
+{
+  "name": "filename",
+  "strings": [
+    {
+      "original_japanese": "こんにちは',
+      "original_pointer": 4,
+      "translations": {
+        "EN": {
+          "translation": "Hello",
+          "verification": 2,
+        },
+        "ES": {
+          "translation": "Hola",
+          "verification": 1,
+        },
+      },
+    },
+    {
+      "original_japanese": "マックフライポテト",
+      "original_pointer": 17,
+      "translations": {
+        "EN": {
+          "translation": "French Fries",
+          "verification": 1,
+        },
+        "ES": {
+          "translation": "",
+          "verification": 0,
+        },
+      },
+    },
+  ],
+}
+```
+
+This data will be used to power a simple UI that translators can use to simply edit individual lines. 
 
 # Scripts
 There are two Python 3 scripts in the scripts folder.
 
-parse.py takes all files in `./original`, converts them into txt files, and put them in `./txt`.
+parser.py reads binary files, converts the binary to strings, and outputs the result in a json structure
 
-builder.py takes all files in `./txt`, converts them back into binary, and put them in `./modified`.
-
-The script doesn't traverse folders within the folders (and treats them as if files, and potentially throw errors). Contributions that implement traversing folders within the folders are more than welcome.
+builder.py is not yet edited from the original version by user670. This is a high priority new feature to allow users to modify their rom copy and generate a new patch. 
 
 # Contributing
-If you would like to make a one-off contribution, just make a pull request **to the `translation` branch**. If you would like to work on a number of files for a longer period of time, first open an issue so that people know what files you are working on and not do repeated work. (Also check issues and PRs for work that has been done or is in progress before you start.)
-
-You may also request direct write permissions.
-
-Contribution to the scripts are also welcome.
+At this time, I am not accepting contributions. If you're interested in contributing in the future, give this repo a star or send me a message. 
