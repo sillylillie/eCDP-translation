@@ -34,7 +34,7 @@ if __name__ == "__main__":
 	rom_filepath = "D:\\ecdp\\eCDP_i18n_Base\\" if rom_filepath == "" else rom_filepath
 	
 	internal_filepath = input("Specify a folder within the rom (such as \"data/soc/\"): ")
-	internal_filepath.replace("/","\\")
+	internal_filepath = internal_filepath.replace("/","\\")
 	internal_filepath = internal_filepath + '\\' if internal_filepath[:-2] != "\\" else internal_filepath
 	
 	filenames=os.listdir(rom_filepath + internal_filepath)
